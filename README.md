@@ -1,6 +1,8 @@
 ![](https://img.shields.io/github/release/nmscd/nmscolorparser.svg) ![](https://img.shields.io/github/issues/nmscd/nmscolorparser.svg)
 ### NMS Color Parser
 
+[https://nmscd.github.io/nmscolorparser/](https://nmscd.github.io/nmscolorparser/)
+
 This mini app reads the exml files and shows the colors of each property visually.
 The number represents the index of that color in their parent property.
 

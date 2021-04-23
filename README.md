@@ -3,9 +3,10 @@
 
 This mini app reads the exml files and shows the colors of each property visually.
 The number represents the index of that color in their parent property.
+
 Example:
 
-![](https://nmscd.github.io/nmscolorparser/src/img/sample.png)![]
+![](https://nmscd.github.io/nmscolorparser/src/img/sample.png)
 
 ####Supported files:
 - BASECOLOURPALETTES.EXML

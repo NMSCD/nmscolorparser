@@ -16,10 +16,10 @@ Example:
 
 ```xml
 <Property value="Colour.xml">
-	<Property name="R" value="0.7839" />
-	<Property name="G" value="0.41184" />
-	<Property name="B" value="0.02691" />
-	<Property name="A" value="1" />
+  <Property name="R" value="0.7839" />
+  <Property name="G" value="0.41184" />
+  <Property name="B" value="0.02691" />
+  <Property name="A" value="1" />
 </Property>
 ```
 #### Multiply the value by 255 and round it.

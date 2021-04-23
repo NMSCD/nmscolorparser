@@ -1,0 +1,179 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500&display=swap');
+
+@font-face {
+  font-family: 'geosanslight';
+  src: url("../src/fonts/geonms-webfont.eot");
+  src: url("../src/fonts/geonms-webfont.eot?#iefix") format("embedded-opentype"),
+  url("../src/fonts/geonms-webfont.woff") format("woff"),
+  url("../src/fonts/geonms-webfont.ttf") format("truetype"),
+  url("../src/fonts/geonms-webfont.svg#geosanslight-nmsregular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-size: 18px;
+  font-family: Raleway, sans-serif;
+  height: 100%;
+  overflow: hidden;
+}
+
+body {
+  background-color: #d9d9d9;
+  color: #fff;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  background-color: #101b21;
+  height: 3rem;
+  padding: 0.5rem 1rem;
+  border-bottom: 2px solid #ff8400;
+  font-family: geosanslight, sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  color: #f7f7f7;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  text-shadow: 1px 1px 1px #fff, 1px 1px 5px #00ffff, 1px 1px 15px #00ffff, 1px 1px 30px #00ffff;
+  line-height: 31px;
+}
+
+header h1 {
+  color: #ffffff;
+  margin: 0;
+  padding: 0;
+}
+
+footer {
+  background-color: #000000;
+  height: 2rem;
+  padding: 0.5rem 1rem;
+  border-top: 2px solid #ff8400;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+footer p {
+  color: #fff;
+  font-size: 12px;
+  letter-spacing: 0.05rem;
+}
+
+main {
+  background: #101b21;
+  height: calc(100vh - 90px);
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.input {
+  width: 95vw;
+  height: 85vh;
+  display: flex;
+  flex-direction: column;
+}
+.input.hidden {
+  display: none;
+}
+
+#drop-area {
+  border: 2px dashed #f9f9f9;
+  border-radius: 10px;
+  width: 100%;
+  margin: auto;
+  padding: 20px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+#drop-area.highlight {
+  border-color: #ff8400;
+}
+#drop-area .info {
+  padding: 0.5rem;
+}
+
+
+p {
+  margin: 0;
+}
+.error {
+  background-color: #cc0000;
+  border-radius: 6px;
+  color: #ffffff;
+  text-align: center;
+  padding: 8px 0;
+  width: 80vw;
+  max-width: 480px;
+  margin: 1rem auto 0;
+}
+.error.hidden {
+  display: none;
+}
+
+.button {
+  display: inline-block;
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+  border: 1px solid #ff8400;
+  text-transform: uppercase;
+  margin-top: 0.5rem;
+}
+
+.button:hover {
+  background: #ff8400;
+}
+
+#fileElem {
+  display: none;
+}
+
+.output {
+  overflow-y: scroll;
+  height: calc(100vh - 108px);
+  padding: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+}
+.output.hidden {
+  display: none;
+}
+.block {
+  width: 520px;
+}
+
+.colorblock {
+  display: flex;
+  flex-wrap: wrap;
+  width: 520px;
+}
+
+.color {
+  display: flex;
+  width: 32px;
+  height: 32px;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  text-shadow: 1px 1px 1px black;
+  font-family: Consolas, sans-serif;
+}
+

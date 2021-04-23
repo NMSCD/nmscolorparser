@@ -1,0 +1,42 @@
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>NMS Color Parser</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="author" content="RogerHN">
+  <meta name="description" content="Parser that shows the colors of file BASECOLOURPALETTES.EXML">
+  <meta name="keywords" content="No Man's Sky, BASECOLOURPALETTES">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+  <div class="app">
+    <header>
+      <img src="./src/img/logo-nms.png" alt="No Man's Sky Logo" class="nmslogo">
+      <span>Color parser</span>
+    </header>
+    <main>
+      <section class="input">
+        <div id="drop-area">
+          <p class="error hidden"></p>
+          <p class="info">Drag the EXML of a color pallete here or select it using the button below.</p>
+          <p class="info">Supported files: BASECOLOURPALETTES.EXML and LEGACYBASECOLOURPALETTES.EXML</p>
+          <input type="file" id="fileElem" onchange="handleFile(this.files)">
+          <label for="fileElem" class="button">Select</label>
+        </div>
+      </section>
+      <section class="output hidden"></section>
+    </main>
+    <footer>
+      <p>Created by RogerHN</p>
+    </footer>
+  </div>
+
+  <script src='js/xml2json.js'></script>
+  <script src="js/script.js"></script>
+  
+</body>
+
+</html>

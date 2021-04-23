@@ -8,7 +8,7 @@ Example:
 
 ![](https://nmscd.github.io/nmscolorparser/src/img/sample.png)
 
-####Supported files:
+#### Supported files:
 - BASECOLOURPALETTES.EXML
 - LEGACYBASECOLOURPALETTES.EXML
 

@@ -12,7 +12,7 @@ Example:
 - BASECOLOURPALETTES.EXML
 - LEGACYBASECOLOURPALETTES.EXML
 
-###How to convert the color values of NMS properties:
+#### How to convert the color values of NMS properties:
 
 ```xml
 <Property value="Colour.xml">
@@ -22,7 +22,7 @@ Example:
 	<Property name="A" value="1" />
 </Property>
 ```
-###Multiply the value by 255 and round it.
+#### Multiply the value by 255 and round it.
 
 ```javascript
 R = Math.round(0.7839 * 255); // result: 200

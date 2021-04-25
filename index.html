@@ -16,6 +16,8 @@
     <header>
       <img src="./src/img/logo-nms.png" alt="No Man's Sky Logo" class="nmslogo">
       <span>Color parser</span>
+      <div class="restart"></div>
+      <div class="menu"></div>
     </header>
     <main>
       <section class="input">
@@ -28,6 +30,19 @@
         </div>
       </section>
       <section class="output hidden"></section>
+      <section class="settings">
+        <div class="settings-header">
+          <button class="settings-close"></button>
+          <div class="title">Settings</div>
+        </div>
+        <div class="options">
+          <div class="block" data-option="startIndexZero">
+            <p class="title">Start color index 1 instead of 0:</p>
+            <span class="checkmark">
+          </div>
+        </div>
+      </section>
+      <section class="overlay"></section>
     </main>
     <footer>
       <p>Created by RogerHN</p>

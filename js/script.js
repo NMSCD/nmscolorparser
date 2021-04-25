@@ -2,7 +2,49 @@ const dropArea = document.getElementById("drop-area");
 const outputElement = document.getElementsByClassName("output")[0];
 const inputElement = document.getElementsByClassName("input")[0];
 const errorElement = document.getElementsByClassName("error")[0];
-console.log(errorElement)
+const menu = document.getElementsByClassName("menu")[0];
+const settings = document.getElementsByClassName("settings")[0];
+const settingsClose = document.getElementsByClassName("settings-close")[0];
+const body = document.getElementsByTagName("body")[0];
+const overlay = document.getElementsByClassName("overlay")[0];
+const settingsOption = document.querySelectorAll(".settings .block");
+
+const restart = document.getElementsByClassName("restart")[0];
+
+const config = {
+  startIndexZero: true
+}
+
+menu.onclick = function(){
+  settings.classList.toggle('active');
+  overlay.classList.toggle('active');
+}
+overlay.onclick = function(){
+  settings.classList.toggle('active');
+  this.classList.toggle('active');
+}
+
+restart.onclick = function(){
+  this.classList.add("active");
+  window.setTimeout(function () {
+    restart.classList.remove('active');
+  }, 500);
+  outputElement.classList.add("hidden");
+  inputElement.classList.remove("hidden");
+  document.querySelector('.output').innerHTML = "";
+}
+settingsClose.onclick = function(){
+  settings.classList.toggle('active');
+  overlay.classList.toggle('active');
+}
+
+settingsOption.forEach(function(setting){
+  setting.onclick = function(){
+    let option = this.getAttribute("data-option");
+    this.querySelector('.checkmark').classList.toggle('active');
+    config[option] = config[option] ? false : true;
+  }
+});
 
 function formatBytes(bytes, decimals = 2) {
   if (bytes === 0) return '0 Bytes';
@@ -112,6 +154,7 @@ function showColors(data){
 
     let colors = item.Property[1].Property;
     let colorNum = 0;
+    if(!config.startIndexZero){colorNum = 1}
     colors.map((color) => {
       let R = color.Property[0]._value;
       let G = color.Property[1]._value;

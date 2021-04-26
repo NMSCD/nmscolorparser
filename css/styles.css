@@ -255,6 +255,15 @@ footer p {
   font-size: 12px;
   letter-spacing: 0.05rem;
 }
+footer .version {
+  font-size: 12px;
+  font-family: sans-serif;
+  letter-spacing: 0;
+  position: absolute;
+  bottom: 20px;
+  right: 10px;
+  text-shadow: 1px 1px 1px #fff, 1px 1px 5px #00ffff, 1px 1px 15px #00ffff, 1px 1px 30px #00ffff;
+}
 
 .settings {
   z-index: 300;

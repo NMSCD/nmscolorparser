@@ -9,8 +9,11 @@ const body = document.getElementsByTagName("body")[0];
 const overlay = document.getElementsByClassName("overlay")[0];
 const settingsOption = document.querySelectorAll(".settings .block");
 const supportedFilesElement = document.getElementsByClassName("supported-files")[0];
-
 const restart = document.getElementsByClassName("restart")[0];
+const versionElement = document.getElementsByClassName("version")[0];
+
+const version = "0.7";
+versionElement.innerText = version;
 
 const config = {
   startIndexZero: false,

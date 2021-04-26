@@ -12,8 +12,8 @@ const settingsOption = document.querySelectorAll(".settings .block");
 const restart = document.getElementsByClassName("restart")[0];
 
 const config = {
-  startIndexZero: true,
-  _8colorsPerLine: false
+  startIndexZero: false,
+  _16colorsPerLine: false
 }
 const colorData = {};
 
@@ -153,9 +153,9 @@ dropArea.addEventListener("drop", handleDrop, false);
 function showColors(data){
   let list = data.Data.Property.Property;
 
-  let colorsPerLine = 16;
-  if(config._8colorsPerLine){
-    colorsPerLine = 8;
+  let colorsPerLine = 8;
+  if(config._16colorsPerLine){
+    colorsPerLine = 16;
   }
 
   let output = "";
@@ -166,8 +166,8 @@ function showColors(data){
     <div class="colorblock" style="grid-template-columns: repeat(${colorsPerLine}, 1fr);">`;
 
     let colors = item.Property[1].Property;
-    let colorNum = 0;
-    if(!config.startIndexZero){colorNum = 1}
+    let colorNum = 1;
+    if(config.startIndexZero){colorNum = 0}
     colors.map((color) => {
       let R = color.Property[0]._value;
       let G = color.Property[1]._value;

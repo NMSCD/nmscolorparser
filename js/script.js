@@ -12,8 +12,10 @@ const settingsOption = document.querySelectorAll(".settings .block");
 const restart = document.getElementsByClassName("restart")[0];
 
 const config = {
-  startIndexZero: true
+  startIndexZero: true,
+  _8colorsPerLine: false
 }
+const colorData = {};
 
 menu.onclick = function(){
   settings.classList.toggle('active');
@@ -41,8 +43,14 @@ settingsClose.onclick = function(){
 settingsOption.forEach(function(setting){
   setting.onclick = function(){
     let option = this.getAttribute("data-option");
+    let value = this.getAttribute("data-value");
     this.querySelector('.checkmark').classList.toggle('active');
     config[option] = config[option] ? false : true;
+
+    if(colorData.data){
+      showColors(colorData.data)
+    }
+    
   }
 });
 
@@ -71,7 +79,6 @@ const format = (date, locale) => new Intl.DateTimeFormat(locale).format(date);
 function readFile(input) {
   let file = input[0];
   let fileName = input[0].name;
-  console.log(fileName)
   let fileSize = formatBytes(input[0].size,0);
   let lastModified = input[0].lastModified;
   let lastModifiedDate = input[0].lastModifiedDate;
@@ -90,6 +97,7 @@ function readFile(input) {
     reader.onload = function() {
       let x2js = new X2JS();
       let json = x2js.xml_str2json(reader.result);
+      colorData.data = json;
       showColors(json)
     };
   
@@ -145,12 +153,17 @@ dropArea.addEventListener("drop", handleDrop, false);
 function showColors(data){
   let list = data.Data.Property.Property;
 
+  let colorsPerLine = 16;
+  if(config._8colorsPerLine){
+    colorsPerLine = 8;
+  }
+
   let output = "";
   list.map((item) => {
     output += `
     <div class="block">
     <div class="title">${item._name}</div>
-    <div class="colorblock">`;
+    <div class="colorblock" style="grid-template-columns: repeat(${colorsPerLine}, 1fr);">`;
 
     let colors = item.Property[1].Property;
     let colorNum = 0;

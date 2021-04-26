@@ -199,20 +199,17 @@ p {
   padding: 1rem;
   display: flex;
   flex-wrap: wrap;
-  gap: 0.5rem;
+  gap: 1rem;
   justify-content: center;
 }
 .output.hidden {
   display: none;
 }
-.block {
-  width: 520px;
-}
 
 .colorblock {
-  display: flex;
-  flex-wrap: wrap;
-  width: 520px;
+  display: grid;
+  grid-template-columns: repeat(16, 1fr);
+  gap: 1px;
 }
 
 .color {
@@ -279,10 +276,10 @@ p {
   display: flex;
   align-items: center;
   width: 100%;
-  padding: 0rem 0.5rem;
+  padding: 0rem 0.5rem 0 1rem;
   font-size: 0.85rem;
   background: #0f1920;
-  margin-bottom: 1px;
+  margin-bottom: 2px;
   cursor: pointer;
 }
 .settings .block input {

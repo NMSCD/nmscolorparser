@@ -8,6 +8,7 @@ const settingsClose = document.getElementsByClassName("settings-close")[0];
 const body = document.getElementsByTagName("body")[0];
 const overlay = document.getElementsByClassName("overlay")[0];
 const settingsOption = document.querySelectorAll(".settings .block");
+const supportedFilesElement = document.getElementsByClassName("supported-files")[0];
 
 const restart = document.getElementsByClassName("restart")[0];
 
@@ -76,6 +77,19 @@ function prettyDate2(time) {
 const formatSeconds = s => (new Date(s * 1000)).toUTCString().match(/(\d\d:\d\d:\d\d)/)[0];
 const format = (date, locale) => new Intl.DateTimeFormat(locale).format(date);
 
+const supportedFiles = [
+  "LEGACYBASECOLOURPALETTES",
+  "BASECOLOURPALETTES",
+  "WATERCOLOURS",
+  "SPACERARESKYCOLOURS",
+  "SPACESKYCOLOURS"
+]
+
+supportedFiles.forEach(file => {
+  let supportedFile = `<span class="filename">${file}</span>`
+  supportedFilesElement.insertAdjacentHTML('afterbegin',supportedFile);
+});
+
 function readFile(input) {
   let file = input[0];
   let fileName = input[0].name;
@@ -83,8 +97,9 @@ function readFile(input) {
   let lastModified = input[0].lastModified;
   let lastModifiedDate = input[0].lastModifiedDate;
   let filenameUpper = fileName.toUpperCase();
+  let fileNameOnly = filenameUpper.split(".")[0];
 
-  if(filenameUpper == "BASECOLOURPALETTES.EXML" || filenameUpper == "LEGACYBASECOLOURPALETTES.EXML"){
+  if(supportedFiles.includes(fileNameOnly)){
     let lastDate = format(new Date(lastModified), 'pt-BR')
     let lastTime = prettyDate2(lastModified);
   
@@ -97,6 +112,7 @@ function readFile(input) {
     reader.onload = function() {
       let x2js = new X2JS();
       let json = x2js.xml_str2json(reader.result);
+      json.file = fileNameOnly;
       colorData.data = json;
       showColors(json)
     };
@@ -151,46 +167,89 @@ dropArea.addEventListener("drop", handleDrop, false);
 
 
 function showColors(data){
-  let list = data.Data.Property.Property;
-
   let colorsPerLine = 8;
   if(config._16colorsPerLine){
     colorsPerLine = 16;
   }
 
   let output = "";
-  list.map((item) => {
-    output += `
-    <div class="block">
-    <div class="title">${item._name}</div>
-    <div class="colorblock" style="grid-template-columns: repeat(${colorsPerLine}, 1fr);">`;
 
-    let colors = item.Property[1].Property;
-    let colorNum = 1;
-    if(config.startIndexZero){colorNum = 0}
-    colors.map((color) => {
-      let R = color.Property[0]._value;
-      let G = color.Property[1]._value;
-      let B = color.Property[2]._value;
-      let A = color.Property[3]._value;
-      R = R * 255;
-      G = G * 255;
-      B = B * 255;
-      A = A * 255;
-      R = Math.round(R);
-      G = Math.round(G);
-      B = Math.round(B);
-      A = Math.round(A);
+  let list = data.Data.Property.Property;
 
-      let bgcolor = `rgba(${R}, ${G}, ${B}, ${A})`;
-      output += `<span class="color" style="background-color:${bgcolor}">${colorNum}</span>`;
-      colorNum = colorNum + 1;
+  if(data.file === "WATERCOLOURS" || data.file === "SPACERARESKYCOLOURS" || data.file === "SPACESKYCOLOURS"){
+    let newList = [];
+    list = list.map((item) => {
+      output += `
+      <div class="block">
+      <div class="colors">`;
+
+      let colors = item.Property;
+      let colorNum = 1;
+      if(config.startIndexZero){colorNum = 0}
+      colors.map((color) => {
+        let colorName = color._name;
+        let R = color.Property[0]._value;
+        let G = color.Property[1]._value;
+        let B = color.Property[2]._value;
+        let A = color.Property[3]._value;
+        R = Math.round(R * 255);
+        G = Math.round(G * 255);
+        B = Math.round(B * 255);
+        A = Math.round(A * 255);
+        let tColor = `rgba(${R}, ${G}, ${B}, ${A})`;
+        let darkerColor = tinycolor(tColor).desaturate(20).toHexString();
+        //let lightColor = Color('rgb(${R}, ${G}, ${B})').lighten(0.5);
+        //Color('rgb(255, 255, 255)')
+  
+        let bgcolor = `rgba(${R}, ${G}, ${B}, ${A})`;
+        output += `<div class="colorline">
+        <span class="name" style="background-color:${bgcolor}">${colorName}</span>
+        <span class="color" style="background-color:${bgcolor}">${colorNum}</span>
+        </div>`;
+        colorNum = colorNum + 1;
+      });
+      output += `</div></div>`;
+      
     });
-    output += `</div></div>`;
 
-  });
+  } else {
+    list.map((item) => {
+      output += `
+      <div class="block">
+      <div class="title">${item._name}</div>
+      <div class="colorblock" style="grid-template-columns: repeat(${colorsPerLine}, 1fr);">`;
+  
+      let colors = item.Property[1].Property;
+      let colorNum = 1;
+      if(config.startIndexZero){colorNum = 0}
+      colors.map((color) => {
+        let R = color.Property[0]._value;
+        let G = color.Property[1]._value;
+        let B = color.Property[2]._value;
+        let A = color.Property[3]._value;
+        R = R * 255;
+        G = G * 255;
+        B = B * 255;
+        A = A * 255;
+        R = Math.round(R);
+        G = Math.round(G);
+        B = Math.round(B);
+        A = Math.round(A);
+  
+        let bgcolor = `rgba(${R}, ${G}, ${B}, ${A})`;
+        output += `<span class="color" style="background-color:${bgcolor}">${colorNum}</span>`;
+        colorNum = colorNum + 1;
+      });
+      output += `</div></div>`;
+  
+    });
+  }
+
+  
+  
   //$('.output').html(output);
   outputElement.classList.remove("hidden");
   inputElement.classList.add("hidden");
   document.querySelector('.output').innerHTML = output;
+  tippy('[data-tippy-content]');
 }

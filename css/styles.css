@@ -102,26 +102,9 @@ header h1 {
   }
 }
 
-
-footer {
-  background-color: #000000;
-  height: 2rem;
-  padding: 0.5rem 1rem;
-  border-top: 2px solid #ff8400;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-footer p {
-  color: #fff;
-  font-size: 12px;
-  letter-spacing: 0.05rem;
-}
-
 main {
   background: #101b21;
-  height: calc(100vh - 90px);
-  padding: 1rem;
+  height: calc(100vh - 108px);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -175,6 +158,21 @@ p {
   display: none;
 }
 
+.supported-files {
+  display: flex;
+  flex-direction: column;
+  font-size: 16px;
+  font-family: Consolas;
+  align-items: center;
+  background: #0a1217;
+  color: #ffc107;
+  padding: 0.5rem 1rem;
+  border-radius: 10px;
+}
+.supported-files .filename {
+  margin: 1px 0;
+}
+
 .button {
   display: inline-block;
   padding: 10px;
@@ -194,13 +192,12 @@ p {
 }
 
 .output {
-  overflow-y: scroll;
+  overflow-y: auto;
   height: calc(100vh - 108px);
   padding: 1rem;
   display: flex;
   flex-wrap: wrap;
   gap: 1rem;
-  justify-content: center;
 }
 .output.hidden {
   display: none;
@@ -219,8 +216,44 @@ p {
   align-items: center;
   justify-content: center;
   color: #fff;
-  text-shadow: 1px 1px 1px black;
+  text-shadow: 1px 1px 1px #1d1d1d, -1px 1px 1px #1d1d1d, -1px -1px 1px #1d1d1d, 1px -1px 1px #1d1d1d;
   font-family: Consolas, sans-serif;
+}
+
+.colors {
+  display: flex;
+  flex-direction: column;
+}
+
+.colors .colorline {
+  display: flex;
+  align-items: center;
+  background-color: #162028;
+  margin-bottom: 1px;
+}
+
+.colors .colorline .name {
+  width: 100%;
+  padding: 0.2rem 0.5rem;
+  text-shadow: 1px 1px 1px #1d1d1d, -1px 1px 1px #1d1d1d, -1px -1px 1px #1d1d1d, 1px -1px 1px #1d1d1d;
+  height: 32px;
+  margin-right: 1px;
+}
+
+
+footer {
+  background-color: #000000;
+  height: 3rem;
+  padding: 0.5rem 1rem;
+  border-top: 2px solid #ff8400;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+footer p {
+  color: #fff;
+  font-size: 12px;
+  letter-spacing: 0.05rem;
 }
 
 .settings {
@@ -330,5 +363,20 @@ p {
   opacity: 1;
 }
 
-
+::-webkit-scrollbar {
+  width: 12px;
+  height: 16px;
+ }
+ ::-webkit-scrollbar-thumb {
+  background: #515a60;
+  border-radius: 0px;
+ }
+ ::-webkit-scrollbar-thumb:hover{
+  background: #ff8400;
+ }
+ ::-webkit-scrollbar-track{
+  background: #101b21;
+  border-radius: 0px;
+  box-shadow: inset 7px 10px 12px #131517;
+ }
 

@@ -11,8 +11,11 @@ Example:
 ![](https://nmscd.github.io/nmscolorparser/src/img/sample.png)
 
 #### Supported files:
-- BASECOLOURPALETTES.EXML
 - LEGACYBASECOLOURPALETTES.EXML
+- BASECOLOURPALETTES.EXML
+- WATERCOLOURS.EXML
+- SPACERARESKYCOLOURS.EXML
+- SPACESKYCOLOURS.EXML
 
 #### How to convert the color values of NMS properties:
 

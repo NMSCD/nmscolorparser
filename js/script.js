@@ -12,7 +12,7 @@ const supportedFilesElement = document.getElementsByClassName("supported-files")
 const restart = document.getElementsByClassName("restart")[0];
 const versionElement = document.getElementsByClassName("version")[0];
 
-const version = "0.7";
+const version = "1.2";
 versionElement.innerText = version;
 
 const config = {

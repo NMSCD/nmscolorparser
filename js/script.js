@@ -199,6 +199,11 @@ function showColors(data) {
   if (config._16colorsPerLine) {
     colorsPerLine = 16;
   }
+  const fileTitle = document.getElementsByClassName("fileTitle")[0];
+
+  if(fileTitle){
+    fileTitle.remove();
+  }
 
   let output = "";
   let title = `<div class="fileTitle">${data.file}</div>`;

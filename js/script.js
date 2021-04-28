@@ -38,7 +38,9 @@ restart.onclick = function () {
   outputElement.classList.add("hidden");
   inputElement.classList.remove("hidden");
   document.querySelector('.output').innerHTML = "";
+  colorData.data = {};
 }
+
 settingsClose.onclick = function () {
   settings.classList.toggle('active');
   overlay.classList.toggle('active');
@@ -208,8 +210,6 @@ function showColors(data) {
   let output = "";
   let title = `<div class="fileTitle">${data.file}</div>`;
   outputElement.insertAdjacentHTML('beforeBegin', title);
-
-
 
   if (data.file === "WATERCOLOURS" || data.file === "SPACERARESKYCOLOURS" || data.file === "SPACESKYCOLOURS") {
     let newList = [];

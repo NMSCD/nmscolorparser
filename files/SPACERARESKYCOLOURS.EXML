@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--File created using MBINCompiler version (3.37.0)-->
+<!--File created using MBINCompiler version (3.71.0)-->
 <Data template="GcSpaceSkyColourSettingList">
   <Property name="Settings">
     <Property value="GcSolarSystemSkyColourData.xml">
@@ -10,14 +10,14 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="MidColour" value="Colour.xml">
-        <Property name="R" value="0.897" />
-        <Property name="G" value="0.376" />
-        <Property name="B" value="0.028" />
+        <Property name="R" value="0.473" />
+        <Property name="G" value="0.253" />
+        <Property name="B" value="0.015" />
         <Property name="A" value="1" />
       </Property>
       <Property name="BottomColour" value="Colour.xml">
-        <Property name="R" value="0.81" />
-        <Property name="G" value="0.421" />
+        <Property name="R" value="0.197" />
+        <Property name="G" value="0.102" />
         <Property name="B" value="0" />
         <Property name="A" value="1" />
       </Property>
@@ -40,9 +40,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="CloudColour" value="Colour.xml">
-        <Property name="R" value="0.318" />
-        <Property name="G" value="0" />
-        <Property name="B" value="0.212" />
+        <Property name="R" value="0.338" />
+        <Property name="G" value="0.104" />
+        <Property name="B" value="0.097" />
         <Property name="A" value="1" />
       </Property>
       <Property name="LightColour" value="Colour.xml">
@@ -52,21 +52,21 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour1" value="Colour.xml">
-        <Property name="R" value="0.72" />
-        <Property name="G" value="0.106" />
-        <Property name="B" value="0.560815" />
+        <Property name="R" value="0.677" />
+        <Property name="G" value="0.423" />
+        <Property name="B" value="0.1" />
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour2" value="Colour.xml">
-        <Property name="R" value="0.983" />
-        <Property name="G" value="0.291" />
-        <Property name="B" value="0.803593" />
+        <Property name="R" value="1" />
+        <Property name="G" value="0.68" />
+        <Property name="B" value="0" />
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour3" value="Colour.xml">
-        <Property name="R" value="0.563" />
-        <Property name="G" value="0.226" />
-        <Property name="B" value="0.47563" />
+        <Property name="R" value="1" />
+        <Property name="G" value="0.689" />
+        <Property name="B" value="0.066" />
         <Property name="A" value="1" />
       </Property>
       <Property name="FogColour" value="Colour.xml">
@@ -84,9 +84,9 @@
     </Property>
     <Property value="GcSolarSystemSkyColourData.xml">
       <Property name="TopColour" value="Colour.xml">
-        <Property name="R" value="0.76" />
-        <Property name="G" value="0.437" />
-        <Property name="B" value="0.056" />
+        <Property name="R" value="0.52" />
+        <Property name="G" value="0.299" />
+        <Property name="B" value="0.038" />
         <Property name="A" value="1" />
       </Property>
       <Property name="MidColour" value="Colour.xml">
@@ -96,9 +96,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="BottomColour" value="Colour.xml">
-        <Property name="R" value="0.777" />
-        <Property name="G" value="0.463" />
-        <Property name="B" value="0.03" />
+        <Property name="R" value="0.42" />
+        <Property name="G" value="0.25" />
+        <Property name="B" value="0.016" />
         <Property name="A" value="1" />
       </Property>
       <Property name="TopColourPlanet" value="Colour.xml">
@@ -170,9 +170,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="MidColour" value="Colour.xml">
-        <Property name="R" value="0.867" />
-        <Property name="G" value="0.256" />
-        <Property name="B" value="0.018" />
+        <Property name="R" value="0.767" />
+        <Property name="G" value="0.226" />
+        <Property name="B" value="0.016" />
         <Property name="A" value="1" />
       </Property>
       <Property name="BottomColour" value="Colour.xml">
@@ -200,9 +200,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="CloudColour" value="Colour.xml">
-        <Property name="R" value="0.613" />
-        <Property name="G" value="0.334" />
-        <Property name="B" value="0.006" />
+        <Property name="R" value="0.62" />
+        <Property name="G" value="0.156" />
+        <Property name="B" value="0.05" />
         <Property name="A" value="1" />
       </Property>
       <Property name="LightColour" value="Colour.xml">
@@ -212,21 +212,21 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour1" value="Colour.xml">
-        <Property name="R" value="0.72" />
-        <Property name="G" value="0.437783" />
-        <Property name="B" value="0.106" />
+        <Property name="R" value="0.902" />
+        <Property name="G" value="0.604" />
+        <Property name="B" value="0.257" />
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour2" value="Colour.xml">
-        <Property name="R" value="0.983" />
-        <Property name="G" value="0.664931" />
-        <Property name="B" value="0.291" />
+        <Property name="R" value="0.862" />
+        <Property name="G" value="0.515" />
+        <Property name="B" value="0.114" />
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour3" value="Colour.xml">
-        <Property name="R" value="0.563" />
-        <Property name="G" value="0.408102" />
-        <Property name="B" value="0.226" />
+        <Property name="R" value="0.7" />
+        <Property name="G" value="0.503" />
+        <Property name="B" value="0.241" />
         <Property name="A" value="1" />
       </Property>
       <Property name="FogColour" value="Colour.xml">
@@ -324,9 +324,9 @@
     </Property>
     <Property value="GcSolarSystemSkyColourData.xml">
       <Property name="TopColour" value="Colour.xml">
-        <Property name="R" value="0.422" />
-        <Property name="G" value="1" />
-        <Property name="B" value="0.004" />
+        <Property name="R" value="0.458" />
+        <Property name="G" value="0.769" />
+        <Property name="B" value="0.233" />
         <Property name="A" value="1" />
       </Property>
       <Property name="MidColour" value="Colour.xml">
@@ -336,9 +336,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="BottomColour" value="Colour.xml">
-        <Property name="R" value="0.548" />
-        <Property name="G" value="1" />
-        <Property name="B" value="0.018" />
+        <Property name="R" value="0.564" />
+        <Property name="G" value="0.796" />
+        <Property name="B" value="0.294" />
         <Property name="A" value="1" />
       </Property>
       <Property name="TopColourPlanet" value="Colour.xml">
@@ -360,9 +360,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="CloudColour" value="Colour.xml">
-        <Property name="R" value="0.051" />
-        <Property name="G" value="0.757" />
-        <Property name="B" value="0.005" />
+        <Property name="R" value="0.285" />
+        <Property name="G" value="0.673" />
+        <Property name="B" value="0.26" />
         <Property name="A" value="1" />
       </Property>
       <Property name="LightColour" value="Colour.xml">
@@ -404,9 +404,9 @@
     </Property>
     <Property value="GcSolarSystemSkyColourData.xml">
       <Property name="TopColour" value="Colour.xml">
-        <Property name="R" value="0.007" />
-        <Property name="G" value="1" />
-        <Property name="B" value="0.623" />
+        <Property name="R" value="0.004" />
+        <Property name="G" value="0.617" />
+        <Property name="B" value="0.384" />
         <Property name="A" value="1" />
       </Property>
       <Property name="MidColour" value="Colour.xml">
@@ -416,9 +416,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="BottomColour" value="Colour.xml">
-        <Property name="R" value="0.011" />
-        <Property name="G" value="1" />
-        <Property name="B" value="0.782" />
+        <Property name="R" value="0.005" />
+        <Property name="G" value="0.457" />
+        <Property name="B" value="0.357" />
         <Property name="A" value="1" />
       </Property>
       <Property name="TopColourPlanet" value="Colour.xml">
@@ -496,9 +496,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="BottomColour" value="Colour.xml">
-        <Property name="R" value="0.021" />
-        <Property name="G" value="1" />
-        <Property name="B" value="0.628" />
+        <Property name="R" value="0.002" />
+        <Property name="G" value="0.1" />
+        <Property name="B" value="0.063" />
         <Property name="A" value="1" />
       </Property>
       <Property name="TopColourPlanet" value="Colour.xml">
@@ -520,9 +520,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="CloudColour" value="Colour.xml">
-        <Property name="R" value="0.002" />
-        <Property name="G" value="0.71" />
-        <Property name="B" value="0.569" />
+        <Property name="R" value="0.001" />
+        <Property name="G" value="0.18" />
+        <Property name="B" value="0.144" />
         <Property name="A" value="1" />
       </Property>
       <Property name="LightColour" value="Colour.xml">
@@ -550,23 +550,23 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="FogColour" value="Colour.xml">
-        <Property name="R" value="0.021" />
-        <Property name="G" value="1" />
-        <Property name="B" value="0.628" />
+        <Property name="R" value="0.789" />
+        <Property name="G" value="0.76" />
+        <Property name="B" value="0.787" />
         <Property name="A" value="1" />
       </Property>
       <Property name="FogColour2" value="Colour.xml">
-        <Property name="R" value="0.021" />
-        <Property name="G" value="1" />
-        <Property name="B" value="0.628" />
+        <Property name="R" value="0.827" />
+        <Property name="G" value="0.234" />
+        <Property name="B" value="0.392" />
         <Property name="A" value="1" />
       </Property>
     </Property>
     <Property value="GcSolarSystemSkyColourData.xml">
       <Property name="TopColour" value="Colour.xml">
-        <Property name="R" value="0.049" />
-        <Property name="G" value="0.737" />
-        <Property name="B" value="0.737" />
+        <Property name="R" value="0.03" />
+        <Property name="G" value="0.447" />
+        <Property name="B" value="0.447" />
         <Property name="A" value="1" />
       </Property>
       <Property name="MidColour" value="Colour.xml">
@@ -576,9 +576,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="BottomColour" value="Colour.xml">
-        <Property name="R" value="0.025" />
-        <Property name="G" value="0.707" />
-        <Property name="B" value="1" />
+        <Property name="R" value="0.015" />
+        <Property name="G" value="0.431" />
+        <Property name="B" value="0.61" />
         <Property name="A" value="1" />
       </Property>
       <Property name="TopColourPlanet" value="Colour.xml">
@@ -644,9 +644,9 @@
     </Property>
     <Property value="GcSolarSystemSkyColourData.xml">
       <Property name="TopColour" value="Colour.xml">
-        <Property name="R" value="0.025" />
-        <Property name="G" value="1" />
-        <Property name="B" value="0.785" />
+        <Property name="R" value="0.016" />
+        <Property name="G" value="0.627" />
+        <Property name="B" value="0.492" />
         <Property name="A" value="1" />
       </Property>
       <Property name="MidColour" value="Colour.xml">
@@ -680,9 +680,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="CloudColour" value="Colour.xml">
-        <Property name="R" value="0.011" />
-        <Property name="G" value="0.822" />
-        <Property name="B" value="1" />
+        <Property name="R" value="0.112" />
+        <Property name="G" value="0.723" />
+        <Property name="B" value="0.807" />
         <Property name="A" value="1" />
       </Property>
       <Property name="LightColour" value="Colour.xml">
@@ -804,21 +804,21 @@
     </Property>
     <Property value="GcSolarSystemSkyColourData.xml">
       <Property name="TopColour" value="Colour.xml">
-        <Property name="R" value="0.929" />
-        <Property name="G" value="0.109" />
-        <Property name="B" value="1" />
+        <Property name="R" value="0.226" />
+        <Property name="G" value="0.027" />
+        <Property name="B" value="0.243" />
         <Property name="A" value="1" />
       </Property>
       <Property name="MidColour" value="Colour.xml">
-        <Property name="R" value="0.465" />
-        <Property name="G" value="0.169" />
-        <Property name="B" value="0.617" />
+        <Property name="R" value="0.306" />
+        <Property name="G" value="0.111" />
+        <Property name="B" value="0.407" />
         <Property name="A" value="1" />
       </Property>
       <Property name="BottomColour" value="Colour.xml">
-        <Property name="R" value="0.587" />
-        <Property name="G" value="0.102" />
-        <Property name="B" value="1" />
+        <Property name="R" value="0.264" />
+        <Property name="G" value="0.046" />
+        <Property name="B" value="0.45" />
         <Property name="A" value="1" />
       </Property>
       <Property name="TopColourPlanet" value="Colour.xml">
@@ -840,9 +840,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="CloudColour" value="Colour.xml">
-        <Property name="R" value="0.293" />
-        <Property name="G" value="0.025" />
-        <Property name="B" value="0.54" />
+        <Property name="R" value="0.143" />
+        <Property name="G" value="0.012" />
+        <Property name="B" value="0.263" />
         <Property name="A" value="1" />
       </Property>
       <Property name="LightColour" value="Colour.xml">
@@ -852,21 +852,21 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour1" value="Colour.xml">
-        <Property name="R" value="0.425518" />
-        <Property name="G" value="0.106" />
-        <Property name="B" value="0.72" />
+        <Property name="R" value="0.5" />
+        <Property name="G" value="0.125" />
+        <Property name="B" value="0.847" />
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour2" value="Colour.xml">
-        <Property name="R" value="0.651109" />
-        <Property name="G" value="0.291" />
-        <Property name="B" value="0.983" />
+        <Property name="R" value="0.983" />
+        <Property name="G" value="0.656" />
+        <Property name="B" value="0.239" />
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour3" value="Colour.xml">
-        <Property name="R" value="0.401371" />
-        <Property name="G" value="0.226" />
-        <Property name="B" value="0.563" />
+        <Property name="R" value="1" />
+        <Property name="G" value="1" />
+        <Property name="B" value="1" />
         <Property name="A" value="1" />
       </Property>
       <Property name="FogColour" value="Colour.xml">
@@ -920,9 +920,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="CloudColour" value="Colour.xml">
-        <Property name="R" value="1" />
-        <Property name="G" value="0.088" />
-        <Property name="B" value="0.653" />
+        <Property name="R" value="0.727" />
+        <Property name="G" value="0.295" />
+        <Property name="B" value="0.451" />
         <Property name="A" value="1" />
       </Property>
       <Property name="LightColour" value="Colour.xml">
@@ -932,9 +932,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour1" value="Colour.xml">
-        <Property name="R" value="0.72" />
-        <Property name="G" value="0.106" />
-        <Property name="B" value="0.670643" />
+        <Property name="R" value="0.918" />
+        <Property name="G" value="0.421" />
+        <Property name="B" value="0.501" />
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour2" value="Colour.xml">
@@ -944,9 +944,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour3" value="Colour.xml">
-        <Property name="R" value="0.563" />
-        <Property name="G" value="0.226" />
-        <Property name="B" value="0.53591" />
+        <Property name="R" value="0.72" />
+        <Property name="G" value="0.194" />
+        <Property name="B" value="0.678" />
         <Property name="A" value="1" />
       </Property>
       <Property name="FogColour" value="Colour.xml">
@@ -1001,8 +1001,8 @@
       </Property>
       <Property name="CloudColour" value="Colour.xml">
         <Property name="R" value="1" />
-        <Property name="G" value="0.011" />
-        <Property name="B" value="0.426" />
+        <Property name="G" value="0.599" />
+        <Property name="B" value="0.767" />
         <Property name="A" value="1" />
       </Property>
       <Property name="LightColour" value="Colour.xml">
@@ -1044,9 +1044,9 @@
     </Property>
     <Property value="GcSolarSystemSkyColourData.xml">
       <Property name="TopColour" value="Colour.xml">
-        <Property name="R" value="0.75" />
-        <Property name="G" value="0.013" />
-        <Property name="B" value="0.013" />
+        <Property name="R" value="0.247" />
+        <Property name="G" value="0.004" />
+        <Property name="B" value="0.004" />
         <Property name="A" value="1" />
       </Property>
       <Property name="MidColour" value="Colour.xml">
@@ -1080,9 +1080,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="CloudColour" value="Colour.xml">
-        <Property name="R" value="0.457" />
-        <Property name="G" value="0.013" />
-        <Property name="B" value="0.013" />
+        <Property name="R" value="0.337" />
+        <Property name="G" value="0.009" />
+        <Property name="B" value="0.009" />
         <Property name="A" value="1" />
       </Property>
       <Property name="LightColour" value="Colour.xml">
@@ -1160,9 +1160,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="CloudColour" value="Colour.xml">
-        <Property name="R" value="0.673" />
-        <Property name="G" value="0.463" />
-        <Property name="B" value="0.216" />
+        <Property name="R" value="0.33" />
+        <Property name="G" value="0.227" />
+        <Property name="B" value="0.106" />
         <Property name="A" value="1" />
       </Property>
       <Property name="LightColour" value="Colour.xml">
@@ -1210,9 +1210,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="MidColour" value="Colour.xml">
-        <Property name="R" value="0.82" />
-        <Property name="G" value="0.489" />
-        <Property name="B" value="0.159" />
+        <Property name="R" value="0.74" />
+        <Property name="G" value="0.441" />
+        <Property name="B" value="0.143" />
         <Property name="A" value="1" />
       </Property>
       <Property name="BottomColour" value="Colour.xml">
@@ -1240,9 +1240,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="CloudColour" value="Colour.xml">
-        <Property name="R" value="1" />
-        <Property name="G" value="0.79" />
-        <Property name="B" value="0.345" />
+        <Property name="R" value="0.513" />
+        <Property name="G" value="0.242" />
+        <Property name="B" value="0.097" />
         <Property name="A" value="1" />
       </Property>
       <Property name="LightColour" value="Colour.xml">
@@ -1252,9 +1252,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour1" value="Colour.xml">
-        <Property name="R" value="0.72" />
-        <Property name="G" value="0.523145" />
-        <Property name="B" value="0.106" />
+        <Property name="R" value="0.762" />
+        <Property name="G" value="0.703" />
+        <Property name="B" value="0.578" />
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour2" value="Colour.xml">
@@ -1264,9 +1264,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour3" value="Colour.xml">
-        <Property name="R" value="0.563" />
-        <Property name="G" value="0.454954" />
-        <Property name="B" value="0.226" />
+        <Property name="R" value="0.96" />
+        <Property name="G" value="0.871" />
+        <Property name="B" value="0.683" />
         <Property name="A" value="1" />
       </Property>
       <Property name="FogColour" value="Colour.xml">
@@ -1524,21 +1524,21 @@
     </Property>
     <Property value="GcSolarSystemSkyColourData.xml">
       <Property name="TopColour" value="Colour.xml">
-        <Property name="R" value="0.489" />
-        <Property name="G" value="0.489" />
-        <Property name="B" value="1" />
+        <Property name="R" value="0.215" />
+        <Property name="G" value="0.215" />
+        <Property name="B" value="0.44" />
         <Property name="A" value="1" />
       </Property>
       <Property name="MidColour" value="Colour.xml">
-        <Property name="R" value="0.317" />
-        <Property name="G" value="0.341" />
-        <Property name="B" value="0.62" />
+        <Property name="R" value="0.147" />
+        <Property name="G" value="0.158" />
+        <Property name="B" value="0.287" />
         <Property name="A" value="1" />
       </Property>
       <Property name="BottomColour" value="Colour.xml">
-        <Property name="R" value="0.38" />
-        <Property name="G" value="0.442" />
-        <Property name="B" value="1" />
+        <Property name="R" value="0.095" />
+        <Property name="G" value="0.111" />
+        <Property name="B" value="0.25" />
         <Property name="A" value="1" />
       </Property>
       <Property name="TopColourPlanet" value="Colour.xml">
@@ -1560,9 +1560,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="CloudColour" value="Colour.xml">
-        <Property name="R" value="0.454" />
-        <Property name="G" value="0.335" />
-        <Property name="B" value="1" />
+        <Property name="R" value="0.092" />
+        <Property name="G" value="0.068" />
+        <Property name="B" value="0.203" />
         <Property name="A" value="1" />
       </Property>
       <Property name="LightColour" value="Colour.xml">
@@ -1572,9 +1572,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour1" value="Colour.xml">
-        <Property name="R" value="0.215874" />
-        <Property name="G" value="0.106" />
-        <Property name="B" value="0.72" />
+        <Property name="R" value="1" />
+        <Property name="G" value="0.011" />
+        <Property name="B" value="0.011" />
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour2" value="Colour.xml">
@@ -1584,9 +1584,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour3" value="Colour.xml">
-        <Property name="R" value="0.286305" />
-        <Property name="G" value="0.226" />
-        <Property name="B" value="0.563" />
+        <Property name="R" value="0.509" />
+        <Property name="G" value="0.401" />
+        <Property name="B" value="1" />
         <Property name="A" value="1" />
       </Property>
       <Property name="FogColour" value="Colour.xml">
@@ -1732,9 +1732,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour1" value="Colour.xml">
-        <Property name="R" value="0.106" />
-        <Property name="G" value="0.72" />
-        <Property name="B" value="0.547844" />
+        <Property name="R" value="0.349" />
+        <Property name="G" value="1" />
+        <Property name="B" value="0.818" />
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour2" value="Colour.xml">
@@ -1764,9 +1764,9 @@
     </Property>
     <Property value="GcSolarSystemSkyColourData.xml">
       <Property name="TopColour" value="Colour.xml">
-        <Property name="R" value="0.454" />
-        <Property name="G" value="0.618" />
-        <Property name="B" value="1" />
+        <Property name="R" value="0.168" />
+        <Property name="G" value="0.229" />
+        <Property name="B" value="0.37" />
         <Property name="A" value="1" />
       </Property>
       <Property name="MidColour" value="Colour.xml">
@@ -1800,9 +1800,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="CloudColour" value="Colour.xml">
-        <Property name="R" value="0.305" />
-        <Property name="G" value="0.2" />
-        <Property name="B" value="0.677" />
+        <Property name="R" value="0.197" />
+        <Property name="G" value="0.129" />
+        <Property name="B" value="0.437" />
         <Property name="A" value="1" />
       </Property>
       <Property name="LightColour" value="Colour.xml">
@@ -1880,9 +1880,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="CloudColour" value="Colour.xml">
-        <Property name="R" value="0.873" />
-        <Property name="G" value="0.434" />
-        <Property name="B" value="0.662" />
+        <Property name="R" value="0.25" />
+        <Property name="G" value="0.124" />
+        <Property name="B" value="0.19" />
         <Property name="A" value="1" />
       </Property>
       <Property name="LightColour" value="Colour.xml">
@@ -1892,21 +1892,21 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour1" value="Colour.xml">
-        <Property name="R" value="0.72" />
-        <Property name="G" value="0.106" />
-        <Property name="B" value="0.424888" />
+        <Property name="R" value="0.743" />
+        <Property name="G" value="0.667" />
+        <Property name="B" value="0.612" />
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour2" value="Colour.xml">
         <Property name="R" value="0.983" />
-        <Property name="G" value="0.291" />
-        <Property name="B" value="0.650398" />
+        <Property name="G" value="0.46" />
+        <Property name="B" value="0.402" />
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour3" value="Colour.xml">
-        <Property name="R" value="0.563" />
-        <Property name="G" value="0.226" />
-        <Property name="B" value="0.401025" />
+        <Property name="R" value="1" />
+        <Property name="G" value="0.93" />
+        <Property name="B" value="0.303" />
         <Property name="A" value="1" />
       </Property>
       <Property name="FogColour" value="Colour.xml">
@@ -1930,9 +1930,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="MidColour" value="Colour.xml">
-        <Property name="R" value="0.807" />
-        <Property name="G" value="0.407" />
-        <Property name="B" value="0.267" />
+        <Property name="R" value="0.518" />
+        <Property name="G" value="0.199" />
+        <Property name="B" value="0.087" />
         <Property name="A" value="1" />
       </Property>
       <Property name="BottomColour" value="Colour.xml">
@@ -1972,9 +1972,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour1" value="Colour.xml">
-        <Property name="R" value="0.72" />
-        <Property name="G" value="0.106" />
-        <Property name="B" value="0.106" />
+        <Property name="R" value="1" />
+        <Property name="G" value="0.409" />
+        <Property name="B" value="0.409" />
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour2" value="Colour.xml">
@@ -1984,9 +1984,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour3" value="Colour.xml">
-        <Property name="R" value="0.563" />
-        <Property name="G" value="0.226" />
-        <Property name="B" value="0.226" />
+        <Property name="R" value="1" />
+        <Property name="G" value="0.744" />
+        <Property name="B" value="0.744" />
         <Property name="A" value="1" />
       </Property>
       <Property name="FogColour" value="Colour.xml">
@@ -2004,21 +2004,21 @@
     </Property>
     <Property value="GcSolarSystemSkyColourData.xml">
       <Property name="TopColour" value="Colour.xml">
-        <Property name="R" value="0.327" />
-        <Property name="G" value="0.182" />
-        <Property name="B" value="0.182" />
+        <Property name="R" value="0.28" />
+        <Property name="G" value="0.275" />
+        <Property name="B" value="0.275" />
         <Property name="A" value="1" />
       </Property>
       <Property name="MidColour" value="Colour.xml">
-        <Property name="R" value="0.18" />
-        <Property name="G" value="0.11" />
-        <Property name="B" value="0.041" />
+        <Property name="R" value="0.32" />
+        <Property name="G" value="0.245" />
+        <Property name="B" value="0.245" />
         <Property name="A" value="1" />
       </Property>
       <Property name="BottomColour" value="Colour.xml">
-        <Property name="R" value="0.177" />
-        <Property name="G" value="0.049" />
-        <Property name="B" value="0.049" />
+        <Property name="R" value="0.343" />
+        <Property name="G" value="0.224" />
+        <Property name="B" value="0.224" />
         <Property name="A" value="1" />
       </Property>
       <Property name="TopColourPlanet" value="Colour.xml">
@@ -2040,9 +2040,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="CloudColour" value="Colour.xml">
-        <Property name="R" value="0.407" />
-        <Property name="G" value="0.016" />
-        <Property name="B" value="0.016" />
+        <Property name="R" value="0.2" />
+        <Property name="G" value="0.2" />
+        <Property name="B" value="0.2" />
         <Property name="A" value="1" />
       </Property>
       <Property name="LightColour" value="Colour.xml">
@@ -2052,21 +2052,21 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour1" value="Colour.xml">
-        <Property name="R" value="0.72" />
-        <Property name="G" value="0.106" />
-        <Property name="B" value="0.106" />
+        <Property name="R" value="0.887" />
+        <Property name="G" value="0.59" />
+        <Property name="B" value="0.59" />
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour2" value="Colour.xml">
-        <Property name="R" value="0.983" />
-        <Property name="G" value="0.291" />
-        <Property name="B" value="0.291" />
+        <Property name="R" value="0.963" />
+        <Property name="G" value="0.359" />
+        <Property name="B" value="0.359" />
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour3" value="Colour.xml">
-        <Property name="R" value="0.563" />
-        <Property name="G" value="0.226" />
-        <Property name="B" value="0.226" />
+        <Property name="R" value="0.96" />
+        <Property name="G" value="0.96" />
+        <Property name="B" value="0.96" />
         <Property name="A" value="1" />
       </Property>
       <Property name="FogColour" value="Colour.xml">
@@ -2120,9 +2120,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="CloudColour" value="Colour.xml">
-        <Property name="R" value="0.367" />
-        <Property name="G" value="0.364" />
-        <Property name="B" value="0.232" />
+        <Property name="R" value="0" />
+        <Property name="G" value="0" />
+        <Property name="B" value="0" />
         <Property name="A" value="1" />
       </Property>
       <Property name="LightColour" value="Colour.xml">
@@ -2280,9 +2280,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="CloudColour" value="Colour.xml">
-        <Property name="R" value="0.103" />
-        <Property name="G" value="0.345" />
-        <Property name="B" value="0.413" />
+        <Property name="R" value="0.927" />
+        <Property name="G" value="0.509" />
+        <Property name="B" value="0.231" />
         <Property name="A" value="1" />
       </Property>
       <Property name="LightColour" value="Colour.xml">
@@ -2292,21 +2292,21 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour1" value="Colour.xml">
-        <Property name="R" value="0.106" />
-        <Property name="G" value="0.585316" />
-        <Property name="B" value="0.72" />
+        <Property name="R" value="0.869" />
+        <Property name="G" value="0.341" />
+        <Property name="B" value="0.061" />
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour2" value="Colour.xml">
-        <Property name="R" value="0.291" />
-        <Property name="G" value="0.831206" />
-        <Property name="B" value="0.983" />
+        <Property name="R" value="0.593" />
+        <Property name="G" value="0.248" />
+        <Property name="B" value="0.176" />
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour3" value="Colour.xml">
-        <Property name="R" value="0.226" />
-        <Property name="G" value="0.489077" />
-        <Property name="B" value="0.563" />
+        <Property name="R" value="0.731" />
+        <Property name="G" value="0.349" />
+        <Property name="B" value="0.08" />
         <Property name="A" value="1" />
       </Property>
       <Property name="FogColour" value="Colour.xml">
@@ -2416,9 +2416,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="BottomColour" value="Colour.xml">
-        <Property name="R" value="0.647" />
-        <Property name="G" value="0.122" />
-        <Property name="B" value="0.007" />
+        <Property name="R" value="0.644" />
+        <Property name="G" value="0.243" />
+        <Property name="B" value="0.154" />
         <Property name="A" value="1" />
       </Property>
       <Property name="TopColourPlanet" value="Colour.xml">
@@ -2440,9 +2440,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="CloudColour" value="Colour.xml">
-        <Property name="R" value="0.94" />
-        <Property name="G" value="0.451" />
-        <Property name="B" value="0" />
+        <Property name="R" value="0.497" />
+        <Property name="G" value="0.898" />
+        <Property name="B" value="0.107" />
         <Property name="A" value="1" />
       </Property>
       <Property name="LightColour" value="Colour.xml">
@@ -2452,21 +2452,21 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour1" value="Colour.xml">
-        <Property name="R" value="0.72" />
-        <Property name="G" value="0.400589" />
-        <Property name="B" value="0.106" />
+        <Property name="R" value="0.681" />
+        <Property name="G" value="0.859" />
+        <Property name="B" value="0.024" />
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour2" value="Colour.xml">
-        <Property name="R" value="0.983" />
-        <Property name="G" value="0.623013" />
-        <Property name="B" value="0.291" />
+        <Property name="R" value="0.414" />
+        <Property name="G" value="0.88" />
+        <Property name="B" value="0.267" />
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour3" value="Colour.xml">
-        <Property name="R" value="0.563" />
-        <Property name="G" value="0.387688" />
-        <Property name="B" value="0.226" />
+        <Property name="R" value="0.417" />
+        <Property name="G" value="0.853" />
+        <Property name="B" value="0.586" />
         <Property name="A" value="1" />
       </Property>
       <Property name="FogColour" value="Colour.xml">
@@ -2520,9 +2520,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="CloudColour" value="Colour.xml">
-        <Property name="R" value="0.443" />
-        <Property name="G" value="0.54" />
-        <Property name="B" value="0.055" />
+        <Property name="R" value="0.482" />
+        <Property name="G" value="0.796" />
+        <Property name="B" value="0.325" />
         <Property name="A" value="1" />
       </Property>
       <Property name="LightColour" value="Colour.xml">
@@ -2600,9 +2600,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="CloudColour" value="Colour.xml">
-        <Property name="R" value="0.507" />
-        <Property name="G" value="0.021" />
-        <Property name="B" value="0.186" />
+        <Property name="R" value="0.333" />
+        <Property name="G" value="0.014" />
+        <Property name="B" value="0.122" />
         <Property name="A" value="1" />
       </Property>
       <Property name="LightColour" value="Colour.xml">
@@ -2612,9 +2612,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour1" value="Colour.xml">
-        <Property name="R" value="0.72" />
-        <Property name="G" value="0.106" />
-        <Property name="B" value="0.314457" />
+        <Property name="R" value="0.823" />
+        <Property name="G" value="0.823" />
+        <Property name="B" value="0.823" />
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour2" value="Colour.xml">
@@ -2624,9 +2624,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour3" value="Colour.xml">
-        <Property name="R" value="0.563" />
-        <Property name="G" value="0.226" />
-        <Property name="B" value="0.340414" />
+        <Property name="R" value="1" />
+        <Property name="G" value="0.96" />
+        <Property name="B" value="0.007" />
         <Property name="A" value="1" />
       </Property>
       <Property name="FogColour" value="Colour.xml">
@@ -2644,9 +2644,9 @@
     </Property>
     <Property value="GcSolarSystemSkyColourData.xml">
       <Property name="TopColour" value="Colour.xml">
-        <Property name="R" value="0.102" />
-        <Property name="G" value="0.687" />
-        <Property name="B" value="0.394" />
+        <Property name="R" value="0.008" />
+        <Property name="G" value="0.057" />
+        <Property name="B" value="0.032" />
         <Property name="A" value="1" />
       </Property>
       <Property name="MidColour" value="Colour.xml">
@@ -2680,9 +2680,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="CloudColour" value="Colour.xml">
-        <Property name="R" value="0.607" />
-        <Property name="G" value="0.607" />
-        <Property name="B" value="0.006" />
+        <Property name="R" value="0" />
+        <Property name="G" value="0" />
+        <Property name="B" value="0" />
         <Property name="A" value="1" />
       </Property>
       <Property name="LightColour" value="Colour.xml">
@@ -2704,9 +2704,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour3" value="Colour.xml">
-        <Property name="R" value="0.563" />
-        <Property name="G" value="0.563" />
-        <Property name="B" value="0.226" />
+        <Property name="R" value="1" />
+        <Property name="G" value="1" />
+        <Property name="B" value="0.401" />
         <Property name="A" value="1" />
       </Property>
       <Property name="FogColour" value="Colour.xml">
@@ -2725,8 +2725,8 @@
     <Property value="GcSolarSystemSkyColourData.xml">
       <Property name="TopColour" value="Colour.xml">
         <Property name="R" value="0" />
-        <Property name="G" value="0.54" />
-        <Property name="B" value="0.873" />
+        <Property name="G" value="0.223" />
+        <Property name="B" value="0.36" />
         <Property name="A" value="1" />
       </Property>
       <Property name="MidColour" value="Colour.xml">
@@ -2736,9 +2736,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="BottomColour" value="Colour.xml">
-        <Property name="R" value="0.255" />
-        <Property name="G" value="0.599" />
-        <Property name="B" value="0.917" />
+        <Property name="R" value="0.105" />
+        <Property name="G" value="0.246" />
+        <Property name="B" value="0.377" />
         <Property name="A" value="1" />
       </Property>
       <Property name="TopColourPlanet" value="Colour.xml">
@@ -2760,9 +2760,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="CloudColour" value="Colour.xml">
-        <Property name="R" value="0.74" />
-        <Property name="G" value="0.456" />
-        <Property name="B" value="0.172" />
+        <Property name="R" value="0.378" />
+        <Property name="G" value="0.149" />
+        <Property name="B" value="0.06" />
         <Property name="A" value="1" />
       </Property>
       <Property name="LightColour" value="Colour.xml">
@@ -2840,9 +2840,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="CloudColour" value="Colour.xml">
-        <Property name="R" value="0.663" />
-        <Property name="G" value="0.432" />
-        <Property name="B" value="0.59" />
+        <Property name="R" value="0" />
+        <Property name="G" value="0" />
+        <Property name="B" value="0" />
         <Property name="A" value="1" />
       </Property>
       <Property name="LightColour" value="Colour.xml">
@@ -2853,20 +2853,20 @@
       </Property>
       <Property name="NebulaColour1" value="Colour.xml">
         <Property name="R" value="0.72" />
-        <Property name="G" value="0.106" />
-        <Property name="B" value="0.525966" />
+        <Property name="G" value="0.614" />
+        <Property name="B" value="0.686" />
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour2" value="Colour.xml">
         <Property name="R" value="0.983" />
-        <Property name="G" value="0.291" />
-        <Property name="B" value="0.764316" />
+        <Property name="G" value="0.737" />
+        <Property name="B" value="0.905" />
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour3" value="Colour.xml">
-        <Property name="R" value="0.563" />
-        <Property name="G" value="0.226" />
-        <Property name="B" value="0.456502" />
+        <Property name="R" value="0.704" />
+        <Property name="G" value="0.717" />
+        <Property name="B" value="0.507" />
         <Property name="A" value="1" />
       </Property>
       <Property name="FogColour" value="Colour.xml">
@@ -3000,9 +3000,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="CloudColour" value="Colour.xml">
-        <Property name="R" value="0.121" />
-        <Property name="G" value="0.488" />
-        <Property name="B" value="0.8" />
+        <Property name="R" value="0.058" />
+        <Property name="G" value="0.236" />
+        <Property name="B" value="0.387" />
         <Property name="A" value="1" />
       </Property>
       <Property name="LightColour" value="Colour.xml">
@@ -3124,9 +3124,9 @@
     </Property>
     <Property value="GcSolarSystemSkyColourData.xml">
       <Property name="TopColour" value="Colour.xml">
-        <Property name="R" value="0.525" />
-        <Property name="G" value="0.69" />
-        <Property name="B" value="0.406" />
+        <Property name="R" value="0.284" />
+        <Property name="G" value="0.373" />
+        <Property name="B" value="0.22" />
         <Property name="A" value="1" />
       </Property>
       <Property name="MidColour" value="Colour.xml">
@@ -3136,9 +3136,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="BottomColour" value="Colour.xml">
-        <Property name="R" value="0.71" />
-        <Property name="G" value="0.518" />
-        <Property name="B" value="0.177" />
+        <Property name="R" value="0.503" />
+        <Property name="G" value="0.367" />
+        <Property name="B" value="0.125" />
         <Property name="A" value="1" />
       </Property>
       <Property name="TopColourPlanet" value="Colour.xml">
@@ -3160,9 +3160,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="CloudColour" value="Colour.xml">
-        <Property name="R" value="0.82" />
-        <Property name="G" value="0.488" />
-        <Property name="B" value="0.029" />
+        <Property name="R" value="0.097" />
+        <Property name="G" value="0.097" />
+        <Property name="B" value="0.097" />
         <Property name="A" value="1" />
       </Property>
       <Property name="LightColour" value="Colour.xml">
@@ -3184,9 +3184,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour3" value="Colour.xml">
-        <Property name="R" value="0.563" />
-        <Property name="G" value="0.421554" />
-        <Property name="B" value="0.226" />
+        <Property name="R" value="0.8" />
+        <Property name="G" value="0.599" />
+        <Property name="B" value="0.321" />
         <Property name="A" value="1" />
       </Property>
       <Property name="FogColour" value="Colour.xml">
@@ -3240,9 +3240,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="CloudColour" value="Colour.xml">
-        <Property name="R" value="0.693" />
-        <Property name="G" value="0.354" />
-        <Property name="B" value="0.551" />
+        <Property name="R" value="0.304" />
+        <Property name="G" value="0.15" />
+        <Property name="B" value="0.269" />
         <Property name="A" value="1" />
       </Property>
       <Property name="LightColour" value="Colour.xml">
@@ -3265,8 +3265,8 @@
       </Property>
       <Property name="NebulaColour3" value="Colour.xml">
         <Property name="R" value="0.563" />
-        <Property name="G" value="0.226" />
-        <Property name="B" value="0.421838" />
+        <Property name="G" value="0.494" />
+        <Property name="B" value="0.534" />
         <Property name="A" value="1" />
       </Property>
       <Property name="FogColour" value="Colour.xml">
@@ -3364,9 +3364,9 @@
     </Property>
     <Property value="GcSolarSystemSkyColourData.xml">
       <Property name="TopColour" value="Colour.xml">
-        <Property name="R" value="0.09" />
-        <Property name="G" value="0.693" />
-        <Property name="B" value="0.597" />
+        <Property name="R" value="0.04" />
+        <Property name="G" value="0.31" />
+        <Property name="B" value="0.267" />
         <Property name="A" value="1" />
       </Property>
       <Property name="MidColour" value="Colour.xml">
@@ -3376,9 +3376,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="BottomColour" value="Colour.xml">
-        <Property name="R" value="0.369" />
-        <Property name="G" value="0.223" />
-        <Property name="B" value="0.483" />
+        <Property name="R" value="0.239" />
+        <Property name="G" value="0.145" />
+        <Property name="B" value="0.313" />
         <Property name="A" value="1" />
       </Property>
       <Property name="TopColourPlanet" value="Colour.xml">
@@ -3400,9 +3400,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="CloudColour" value="Colour.xml">
-        <Property name="R" value="0.401" />
-        <Property name="G" value="0.291" />
-        <Property name="B" value="0.567" />
+        <Property name="R" value="0.04" />
+        <Property name="G" value="0.029" />
+        <Property name="B" value="0.057" />
         <Property name="A" value="1" />
       </Property>
       <Property name="LightColour" value="Colour.xml">
@@ -3424,9 +3424,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour3" value="Colour.xml">
-        <Property name="R" value="0.360312" />
-        <Property name="G" value="0.226" />
-        <Property name="B" value="0.563" />
+        <Property name="R" value="0.718" />
+        <Property name="G" value="0.639" />
+        <Property name="B" value="0.837" />
         <Property name="A" value="1" />
       </Property>
       <Property name="FogColour" value="Colour.xml">
@@ -3444,9 +3444,9 @@
     </Property>
     <Property value="GcSolarSystemSkyColourData.xml">
       <Property name="TopColour" value="Colour.xml">
-        <Property name="R" value="0.817" />
-        <Property name="G" value="0.645" />
-        <Property name="B" value="0.408" />
+        <Property name="R" value="0.4" />
+        <Property name="G" value="0.316" />
+        <Property name="B" value="0.2" />
         <Property name="A" value="1" />
       </Property>
       <Property name="MidColour" value="Colour.xml">
@@ -3480,9 +3480,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="CloudColour" value="Colour.xml">
-        <Property name="R" value="0.773" />
-        <Property name="G" value="0.387" />
-        <Property name="B" value="0.557" />
+        <Property name="R" value="0.35" />
+        <Property name="G" value="0.175" />
+        <Property name="B" value="0.252" />
         <Property name="A" value="1" />
       </Property>
       <Property name="LightColour" value="Colour.xml">
@@ -3492,15 +3492,15 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour1" value="Colour.xml">
-        <Property name="R" value="0.72" />
-        <Property name="G" value="0.106" />
-        <Property name="B" value="0.376414" />
+        <Property name="R" value="0" />
+        <Property name="G" value="0" />
+        <Property name="B" value="0" />
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour2" value="Colour.xml">
-        <Property name="R" value="0.983" />
-        <Property name="G" value="0.291" />
-        <Property name="B" value="0.595767" />
+        <Property name="R" value="1" />
+        <Property name="G" value="1" />
+        <Property name="B" value="1" />
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour3" value="Colour.xml">
@@ -3560,9 +3560,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="CloudColour" value="Colour.xml">
-        <Property name="R" value="0.134" />
-        <Property name="G" value="0.373" />
-        <Property name="B" value="0.325" />
+        <Property name="R" value="0.025" />
+        <Property name="G" value="0.07" />
+        <Property name="B" value="0.061" />
         <Property name="A" value="1" />
       </Property>
       <Property name="LightColour" value="Colour.xml">
@@ -3640,9 +3640,9 @@
         <Property name="A" value="1" />
       </Property>
       <Property name="CloudColour" value="Colour.xml">
-        <Property name="R" value="0.493" />
-        <Property name="G" value="0.38" />
-        <Property name="B" value="0.38" />
+        <Property name="R" value="0.29" />
+        <Property name="G" value="0.002" />
+        <Property name="B" value="0.002" />
         <Property name="A" value="1" />
       </Property>
       <Property name="LightColour" value="Colour.xml">
@@ -3653,20 +3653,20 @@
       </Property>
       <Property name="NebulaColour1" value="Colour.xml">
         <Property name="R" value="0.72" />
-        <Property name="G" value="0.106" />
-        <Property name="B" value="0.106" />
+        <Property name="G" value="0.464" />
+        <Property name="B" value="0.464" />
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour2" value="Colour.xml">
         <Property name="R" value="0.983" />
-        <Property name="G" value="0.291" />
-        <Property name="B" value="0.291" />
+        <Property name="G" value="0.703" />
+        <Property name="B" value="0.703" />
         <Property name="A" value="1" />
       </Property>
       <Property name="NebulaColour3" value="Colour.xml">
         <Property name="R" value="0.563" />
-        <Property name="G" value="0.226" />
-        <Property name="B" value="0.226" />
+        <Property name="G" value="0.488" />
+        <Property name="B" value="0.488" />
         <Property name="A" value="1" />
       </Property>
       <Property name="FogColour" value="Colour.xml">

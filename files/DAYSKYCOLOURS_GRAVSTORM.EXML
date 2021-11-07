@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--File created using MBINCompiler version (3.37.0)-->
+<!--File created using MBINCompiler version (3.71.0)-->
 <Data template="GcWeatherColourSettings">
   <Property name="GenericSettings" value="GcWeatherColourSettingList.xml">
     <Property name="Settings">
@@ -46,11 +46,10 @@
           <Property name="B" value="0.973" />
           <Property name="A" value="1" />
         </Property>
-        <Property name="SkyGradientSpeed" value="Vector4f.xml">
+        <Property name="SkyGradientSpeed" value="Vector3f.xml">
           <Property name="x" value="1" />
           <Property name="y" value="1" />
           <Property name="z" value="1" />
-          <Property name="t" value="0" />
         </Property>
         <Property name="LightColour" value="Colour.xml">
           <Property name="R" value="1" />
@@ -114,11 +113,10 @@
           <Property name="B" value="0.959" />
           <Property name="A" value="1" />
         </Property>
-        <Property name="SkyGradientSpeed" value="Vector4f.xml">
+        <Property name="SkyGradientSpeed" value="Vector3f.xml">
           <Property name="x" value="1" />
           <Property name="y" value="1" />
           <Property name="z" value="1" />
-          <Property name="t" value="0" />
         </Property>
         <Property name="LightColour" value="Colour.xml">
           <Property name="R" value="1" />
@@ -182,11 +180,10 @@
           <Property name="B" value="0.742" />
           <Property name="A" value="1" />
         </Property>
-        <Property name="SkyGradientSpeed" value="Vector4f.xml">
+        <Property name="SkyGradientSpeed" value="Vector3f.xml">
           <Property name="x" value="1" />
           <Property name="y" value="1" />
           <Property name="z" value="1" />
-          <Property name="t" value="0" />
         </Property>
         <Property name="LightColour" value="Colour.xml">
           <Property name="R" value="1" />
@@ -250,11 +247,10 @@
           <Property name="B" value="0.717" />
           <Property name="A" value="1" />
         </Property>
-        <Property name="SkyGradientSpeed" value="Vector4f.xml">
+        <Property name="SkyGradientSpeed" value="Vector3f.xml">
           <Property name="x" value="1" />
           <Property name="y" value="1" />
           <Property name="z" value="1" />
-          <Property name="t" value="0" />
         </Property>
         <Property name="LightColour" value="Colour.xml">
           <Property name="R" value="1" />
@@ -318,11 +314,10 @@
           <Property name="B" value="1" />
           <Property name="A" value="1" />
         </Property>
-        <Property name="SkyGradientSpeed" value="Vector4f.xml">
+        <Property name="SkyGradientSpeed" value="Vector3f.xml">
           <Property name="x" value="1" />
           <Property name="y" value="1" />
           <Property name="z" value="1" />
-          <Property name="t" value="0" />
         </Property>
         <Property name="LightColour" value="Colour.xml">
           <Property name="R" value="0.965" />
@@ -386,11 +381,10 @@
           <Property name="B" value="1" />
           <Property name="A" value="1" />
         </Property>
-        <Property name="SkyGradientSpeed" value="Vector4f.xml">
+        <Property name="SkyGradientSpeed" value="Vector3f.xml">
           <Property name="x" value="2" />
           <Property name="y" value="1" />
           <Property name="z" value="1" />
-          <Property name="t" value="0" />
         </Property>
         <Property name="LightColour" value="Colour.xml">
           <Property name="R" value="1" />
@@ -454,11 +448,10 @@
           <Property name="B" value="0.959" />
           <Property name="A" value="1" />
         </Property>
-        <Property name="SkyGradientSpeed" value="Vector4f.xml">
+        <Property name="SkyGradientSpeed" value="Vector3f.xml">
           <Property name="x" value="1" />
           <Property name="y" value="1" />
           <Property name="z" value="1" />
-          <Property name="t" value="0" />
         </Property>
         <Property name="LightColour" value="Colour.xml">
           <Property name="R" value="1" />
@@ -522,11 +515,10 @@
           <Property name="B" value="0.926" />
           <Property name="A" value="1" />
         </Property>
-        <Property name="SkyGradientSpeed" value="Vector4f.xml">
+        <Property name="SkyGradientSpeed" value="Vector3f.xml">
           <Property name="x" value="2" />
           <Property name="y" value="1" />
           <Property name="z" value="1" />
-          <Property name="t" value="0" />
         </Property>
         <Property name="LightColour" value="Colour.xml">
           <Property name="R" value="0.967" />
@@ -590,11 +582,10 @@
           <Property name="B" value="1" />
           <Property name="A" value="1" />
         </Property>
-        <Property name="SkyGradientSpeed" value="Vector4f.xml">
+        <Property name="SkyGradientSpeed" value="Vector3f.xml">
           <Property name="x" value="1" />
           <Property name="y" value="1" />
           <Property name="z" value="2" />
-          <Property name="t" value="0" />
         </Property>
         <Property name="LightColour" value="Colour.xml">
           <Property name="R" value="1" />
@@ -658,11 +649,10 @@
           <Property name="B" value="1" />
           <Property name="A" value="1" />
         </Property>
-        <Property name="SkyGradientSpeed" value="Vector4f.xml">
+        <Property name="SkyGradientSpeed" value="Vector3f.xml">
           <Property name="x" value="2" />
           <Property name="y" value="1" />
           <Property name="z" value="1" />
-          <Property name="t" value="0" />
         </Property>
         <Property name="LightColour" value="Colour.xml">
           <Property name="R" value="1" />
@@ -726,11 +716,10 @@
           <Property name="B" value="0.742" />
           <Property name="A" value="1" />
         </Property>
-        <Property name="SkyGradientSpeed" value="Vector4f.xml">
+        <Property name="SkyGradientSpeed" value="Vector3f.xml">
           <Property name="x" value="2" />
           <Property name="y" value="1" />
           <Property name="z" value="1" />
-          <Property name="t" value="0" />
         </Property>
         <Property name="LightColour" value="Colour.xml">
           <Property name="R" value="0.884" />
@@ -794,11 +783,10 @@
           <Property name="B" value="0.953" />
           <Property name="A" value="1" />
         </Property>
-        <Property name="SkyGradientSpeed" value="Vector4f.xml">
+        <Property name="SkyGradientSpeed" value="Vector3f.xml">
           <Property name="x" value="1" />
           <Property name="y" value="2" />
           <Property name="z" value="1" />
-          <Property name="t" value="0" />
         </Property>
         <Property name="LightColour" value="Colour.xml">
           <Property name="R" value="1" />
@@ -862,11 +850,10 @@
           <Property name="B" value="1" />
           <Property name="A" value="1" />
         </Property>
-        <Property name="SkyGradientSpeed" value="Vector4f.xml">
+        <Property name="SkyGradientSpeed" value="Vector3f.xml">
           <Property name="x" value="1" />
           <Property name="y" value="2" />
           <Property name="z" value="1" />
-          <Property name="t" value="0" />
         </Property>
         <Property name="LightColour" value="Colour.xml">
           <Property name="R" value="1" />
@@ -930,11 +917,10 @@
           <Property name="B" value="1" />
           <Property name="A" value="1" />
         </Property>
-        <Property name="SkyGradientSpeed" value="Vector4f.xml">
+        <Property name="SkyGradientSpeed" value="Vector3f.xml">
           <Property name="x" value="1" />
           <Property name="y" value="1" />
           <Property name="z" value="1" />
-          <Property name="t" value="0" />
         </Property>
         <Property name="LightColour" value="Colour.xml">
           <Property name="R" value="1" />
@@ -998,11 +984,10 @@
           <Property name="B" value="0.691" />
           <Property name="A" value="1" />
         </Property>
-        <Property name="SkyGradientSpeed" value="Vector4f.xml">
+        <Property name="SkyGradientSpeed" value="Vector3f.xml">
           <Property name="x" value="1" />
           <Property name="y" value="1" />
           <Property name="z" value="1" />
-          <Property name="t" value="0" />
         </Property>
         <Property name="LightColour" value="Colour.xml">
           <Property name="R" value="1" />
@@ -1066,11 +1051,10 @@
           <Property name="B" value="0.628" />
           <Property name="A" value="1" />
         </Property>
-        <Property name="SkyGradientSpeed" value="Vector4f.xml">
+        <Property name="SkyGradientSpeed" value="Vector3f.xml">
           <Property name="x" value="1" />
           <Property name="y" value="1" />
           <Property name="z" value="1" />
-          <Property name="t" value="0" />
         </Property>
         <Property name="LightColour" value="Colour.xml">
           <Property name="R" value="1" />
@@ -1134,11 +1118,10 @@
           <Property name="B" value="0.628" />
           <Property name="A" value="1" />
         </Property>
-        <Property name="SkyGradientSpeed" value="Vector4f.xml">
+        <Property name="SkyGradientSpeed" value="Vector3f.xml">
           <Property name="x" value="2" />
           <Property name="y" value="1" />
           <Property name="z" value="1" />
-          <Property name="t" value="0" />
         </Property>
         <Property name="LightColour" value="Colour.xml">
           <Property name="R" value="1" />
@@ -1202,11 +1185,10 @@
           <Property name="B" value="1" />
           <Property name="A" value="1" />
         </Property>
-        <Property name="SkyGradientSpeed" value="Vector4f.xml">
+        <Property name="SkyGradientSpeed" value="Vector3f.xml">
           <Property name="x" value="2" />
           <Property name="y" value="1" />
           <Property name="z" value="1" />
-          <Property name="t" value="0" />
         </Property>
         <Property name="LightColour" value="Colour.xml">
           <Property name="R" value="1" />
@@ -1270,11 +1252,10 @@
           <Property name="B" value="1" />
           <Property name="A" value="1" />
         </Property>
-        <Property name="SkyGradientSpeed" value="Vector4f.xml">
+        <Property name="SkyGradientSpeed" value="Vector3f.xml">
           <Property name="x" value="1.5" />
           <Property name="y" value="1" />
           <Property name="z" value="1" />
-          <Property name="t" value="0" />
         </Property>
         <Property name="LightColour" value="Colour.xml">
           <Property name="R" value="1" />
@@ -1338,11 +1319,10 @@
           <Property name="B" value="1" />
           <Property name="A" value="1" />
         </Property>
-        <Property name="SkyGradientSpeed" value="Vector4f.xml">
+        <Property name="SkyGradientSpeed" value="Vector3f.xml">
           <Property name="x" value="1" />
           <Property name="y" value="1" />
           <Property name="z" value="2" />
-          <Property name="t" value="0" />
         </Property>
         <Property name="LightColour" value="Colour.xml">
           <Property name="R" value="1" />
@@ -1406,11 +1386,10 @@
           <Property name="B" value="0.926" />
           <Property name="A" value="1" />
         </Property>
-        <Property name="SkyGradientSpeed" value="Vector4f.xml">
+        <Property name="SkyGradientSpeed" value="Vector3f.xml">
           <Property name="x" value="2" />
           <Property name="y" value="1" />
           <Property name="z" value="1" />
-          <Property name="t" value="0" />
         </Property>
         <Property name="LightColour" value="Colour.xml">
           <Property name="R" value="1" />
@@ -1474,11 +1453,10 @@
           <Property name="B" value="0.717" />
           <Property name="A" value="1" />
         </Property>
-        <Property name="SkyGradientSpeed" value="Vector4f.xml">
+        <Property name="SkyGradientSpeed" value="Vector3f.xml">
           <Property name="x" value="1" />
           <Property name="y" value="1" />
           <Property name="z" value="1" />
-          <Property name="t" value="0" />
         </Property>
         <Property name="LightColour" value="Colour.xml">
           <Property name="R" value="1" />
@@ -1542,11 +1520,10 @@
           <Property name="B" value="1" />
           <Property name="A" value="1" />
         </Property>
-        <Property name="SkyGradientSpeed" value="Vector4f.xml">
+        <Property name="SkyGradientSpeed" value="Vector3f.xml">
           <Property name="x" value="0.7" />
           <Property name="y" value="2" />
           <Property name="z" value="1" />
-          <Property name="t" value="0" />
         </Property>
         <Property name="LightColour" value="Colour.xml">
           <Property name="R" value="1" />
@@ -1610,11 +1587,10 @@
           <Property name="B" value="0.742" />
           <Property name="A" value="1" />
         </Property>
-        <Property name="SkyGradientSpeed" value="Vector4f.xml">
+        <Property name="SkyGradientSpeed" value="Vector3f.xml">
           <Property name="x" value="1" />
           <Property name="y" value="1" />
           <Property name="z" value="1" />
-          <Property name="t" value="0" />
         </Property>
         <Property name="LightColour" value="Colour.xml">
           <Property name="R" value="1" />
@@ -1678,11 +1654,10 @@
           <Property name="B" value="0.628" />
           <Property name="A" value="1" />
         </Property>
-        <Property name="SkyGradientSpeed" value="Vector4f.xml">
+        <Property name="SkyGradientSpeed" value="Vector3f.xml">
           <Property name="x" value="1" />
           <Property name="y" value="1" />
           <Property name="z" value="1" />
-          <Property name="t" value="0" />
         </Property>
         <Property name="LightColour" value="Colour.xml">
           <Property name="R" value="1" />
@@ -1746,11 +1721,10 @@
           <Property name="B" value="0.628" />
           <Property name="A" value="1" />
         </Property>
-        <Property name="SkyGradientSpeed" value="Vector4f.xml">
+        <Property name="SkyGradientSpeed" value="Vector3f.xml">
           <Property name="x" value="1" />
           <Property name="y" value="1" />
           <Property name="z" value="1" />
-          <Property name="t" value="0" />
         </Property>
         <Property name="LightColour" value="Colour.xml">
           <Property name="R" value="1" />
@@ -1814,11 +1788,10 @@
           <Property name="B" value="1" />
           <Property name="A" value="1" />
         </Property>
-        <Property name="SkyGradientSpeed" value="Vector4f.xml">
+        <Property name="SkyGradientSpeed" value="Vector3f.xml">
           <Property name="x" value="2" />
           <Property name="y" value="1" />
           <Property name="z" value="1" />
-          <Property name="t" value="0" />
         </Property>
         <Property name="LightColour" value="Colour.xml">
           <Property name="R" value="1" />
@@ -1882,11 +1855,10 @@
           <Property name="B" value="0.628" />
           <Property name="A" value="1" />
         </Property>
-        <Property name="SkyGradientSpeed" value="Vector4f.xml">
+        <Property name="SkyGradientSpeed" value="Vector3f.xml">
           <Property name="x" value="1" />
           <Property name="y" value="1" />
           <Property name="z" value="1" />
-          <Property name="t" value="0" />
         </Property>
         <Property name="LightColour" value="Colour.xml">
           <Property name="R" value="1" />
@@ -1950,11 +1922,10 @@
           <Property name="B" value="0.628" />
           <Property name="A" value="1" />
         </Property>
-        <Property name="SkyGradientSpeed" value="Vector4f.xml">
+        <Property name="SkyGradientSpeed" value="Vector3f.xml">
           <Property name="x" value="2" />
           <Property name="y" value="1" />
           <Property name="z" value="1" />
-          <Property name="t" value="0" />
         </Property>
         <Property name="LightColour" value="Colour.xml">
           <Property name="R" value="1" />
@@ -2018,11 +1989,10 @@
           <Property name="B" value="1" />
           <Property name="A" value="1" />
         </Property>
-        <Property name="SkyGradientSpeed" value="Vector4f.xml">
+        <Property name="SkyGradientSpeed" value="Vector3f.xml">
           <Property name="x" value="2" />
           <Property name="y" value="1" />
           <Property name="z" value="1" />
-          <Property name="t" value="0" />
         </Property>
         <Property name="LightColour" value="Colour.xml">
           <Property name="R" value="1" />
@@ -2086,11 +2056,10 @@
           <Property name="B" value="1" />
           <Property name="A" value="1" />
         </Property>
-        <Property name="SkyGradientSpeed" value="Vector4f.xml">
+        <Property name="SkyGradientSpeed" value="Vector3f.xml">
           <Property name="x" value="2" />
           <Property name="y" value="1" />
           <Property name="z" value="1" />
-          <Property name="t" value="0" />
         </Property>
         <Property name="LightColour" value="Colour.xml">
           <Property name="R" value="1" />
@@ -2154,11 +2123,10 @@
           <Property name="B" value="0.742" />
           <Property name="A" value="1" />
         </Property>
-        <Property name="SkyGradientSpeed" value="Vector4f.xml">
+        <Property name="SkyGradientSpeed" value="Vector3f.xml">
           <Property name="x" value="2" />
           <Property name="y" value="1" />
           <Property name="z" value="1" />
-          <Property name="t" value="0" />
         </Property>
         <Property name="LightColour" value="Colour.xml">
           <Property name="R" value="0.884" />
@@ -2222,11 +2190,10 @@
           <Property name="B" value="0.628" />
           <Property name="A" value="1" />
         </Property>
-        <Property name="SkyGradientSpeed" value="Vector4f.xml">
+        <Property name="SkyGradientSpeed" value="Vector3f.xml">
           <Property name="x" value="2" />
           <Property name="y" value="1" />
           <Property name="z" value="1" />
-          <Property name="t" value="0" />
         </Property>
         <Property name="LightColour" value="Colour.xml">
           <Property name="R" value="1" />
@@ -2290,11 +2257,10 @@
           <Property name="B" value="1" />
           <Property name="A" value="1" />
         </Property>
-        <Property name="SkyGradientSpeed" value="Vector4f.xml">
+        <Property name="SkyGradientSpeed" value="Vector3f.xml">
           <Property name="x" value="2" />
           <Property name="y" value="1" />
           <Property name="z" value="1" />
-          <Property name="t" value="0" />
         </Property>
         <Property name="LightColour" value="Colour.xml">
           <Property name="R" value="0.993" />
@@ -2358,11 +2324,10 @@
           <Property name="B" value="1" />
           <Property name="A" value="1" />
         </Property>
-        <Property name="SkyGradientSpeed" value="Vector4f.xml">
+        <Property name="SkyGradientSpeed" value="Vector3f.xml">
           <Property name="x" value="1.5" />
           <Property name="y" value="1" />
           <Property name="z" value="1" />
-          <Property name="t" value="0" />
         </Property>
         <Property name="LightColour" value="Colour.xml">
           <Property name="R" value="0.86" />
@@ -2426,11 +2391,10 @@
           <Property name="B" value="1" />
           <Property name="A" value="1" />
         </Property>
-        <Property name="SkyGradientSpeed" value="Vector4f.xml">
+        <Property name="SkyGradientSpeed" value="Vector3f.xml">
           <Property name="x" value="1" />
           <Property name="y" value="1" />
           <Property name="z" value="2" />
-          <Property name="t" value="0" />
         </Property>
         <Property name="LightColour" value="Colour.xml">
           <Property name="R" value="0.991" />
@@ -2494,11 +2458,10 @@
           <Property name="B" value="0.926" />
           <Property name="A" value="1" />
         </Property>
-        <Property name="SkyGradientSpeed" value="Vector4f.xml">
+        <Property name="SkyGradientSpeed" value="Vector3f.xml">
           <Property name="x" value="2" />
           <Property name="y" value="1" />
           <Property name="z" value="1" />
-          <Property name="t" value="0" />
         </Property>
         <Property name="LightColour" value="Colour.xml">
           <Property name="R" value="0.965" />
@@ -2562,11 +2525,10 @@
           <Property name="B" value="0.717" />
           <Property name="A" value="1" />
         </Property>
-        <Property name="SkyGradientSpeed" value="Vector4f.xml">
+        <Property name="SkyGradientSpeed" value="Vector3f.xml">
           <Property name="x" value="1" />
           <Property name="y" value="1" />
           <Property name="z" value="1" />
-          <Property name="t" value="0" />
         </Property>
         <Property name="LightColour" value="Colour.xml">
           <Property name="R" value="0.99" />
@@ -2630,11 +2592,10 @@
           <Property name="B" value="1" />
           <Property name="A" value="1" />
         </Property>
-        <Property name="SkyGradientSpeed" value="Vector4f.xml">
+        <Property name="SkyGradientSpeed" value="Vector3f.xml">
           <Property name="x" value="0.7" />
           <Property name="y" value="2" />
           <Property name="z" value="1" />
-          <Property name="t" value="0" />
         </Property>
         <Property name="LightColour" value="Colour.xml">
           <Property name="R" value="1" />
@@ -2698,11 +2659,10 @@
           <Property name="B" value="0.742" />
           <Property name="A" value="1" />
         </Property>
-        <Property name="SkyGradientSpeed" value="Vector4f.xml">
+        <Property name="SkyGradientSpeed" value="Vector3f.xml">
           <Property name="x" value="1" />
           <Property name="y" value="1" />
           <Property name="z" value="1" />
-          <Property name="t" value="0" />
         </Property>
         <Property name="LightColour" value="Colour.xml">
           <Property name="R" value="0.992" />
@@ -2771,11 +2731,10 @@
             <Property name="B" value="1" />
             <Property name="A" value="1" />
           </Property>
-          <Property name="SkyGradientSpeed" value="Vector4f.xml">
+          <Property name="SkyGradientSpeed" value="Vector3f.xml">
             <Property name="x" value="0" />
             <Property name="y" value="0" />
             <Property name="z" value="0" />
-            <Property name="t" value="0" />
           </Property>
           <Property name="LightColour" value="Colour.xml">
             <Property name="R" value="0.726" />
@@ -2876,11 +2835,10 @@
             <Property name="B" value="0.973" />
             <Property name="A" value="1" />
           </Property>
-          <Property name="SkyGradientSpeed" value="Vector4f.xml">
+          <Property name="SkyGradientSpeed" value="Vector3f.xml">
             <Property name="x" value="1" />
             <Property name="y" value="1" />
             <Property name="z" value="1" />
-            <Property name="t" value="0" />
           </Property>
           <Property name="LightColour" value="Colour.xml">
             <Property name="R" value="1" />
@@ -2944,11 +2902,10 @@
             <Property name="B" value="0.93" />
             <Property name="A" value="1" />
           </Property>
-          <Property name="SkyGradientSpeed" value="Vector4f.xml">
+          <Property name="SkyGradientSpeed" value="Vector3f.xml">
             <Property name="x" value="1" />
             <Property name="y" value="1" />
             <Property name="z" value="1" />
-            <Property name="t" value="0" />
           </Property>
           <Property name="LightColour" value="Colour.xml">
             <Property name="R" value="0.904" />
@@ -3012,11 +2969,10 @@
             <Property name="B" value="0.55" />
             <Property name="A" value="1" />
           </Property>
-          <Property name="SkyGradientSpeed" value="Vector4f.xml">
+          <Property name="SkyGradientSpeed" value="Vector3f.xml">
             <Property name="x" value="1" />
             <Property name="y" value="1" />
             <Property name="z" value="1" />
-            <Property name="t" value="0" />
           </Property>
           <Property name="LightColour" value="Colour.xml">
             <Property name="R" value="0.946" />
@@ -3080,11 +3036,10 @@
             <Property name="B" value="0.973" />
             <Property name="A" value="1" />
           </Property>
-          <Property name="SkyGradientSpeed" value="Vector4f.xml">
+          <Property name="SkyGradientSpeed" value="Vector3f.xml">
             <Property name="x" value="1" />
             <Property name="y" value="1" />
             <Property name="z" value="1" />
-            <Property name="t" value="0" />
           </Property>
           <Property name="LightColour" value="Colour.xml">
             <Property name="R" value="1" />
@@ -3148,11 +3103,10 @@
             <Property name="B" value="0.753" />
             <Property name="A" value="1" />
           </Property>
-          <Property name="SkyGradientSpeed" value="Vector4f.xml">
+          <Property name="SkyGradientSpeed" value="Vector3f.xml">
             <Property name="x" value="1" />
             <Property name="y" value="1" />
             <Property name="z" value="1" />
-            <Property name="t" value="0" />
           </Property>
           <Property name="LightColour" value="Colour.xml">
             <Property name="R" value="1" />
@@ -3216,11 +3170,10 @@
             <Property name="B" value="0.973" />
             <Property name="A" value="1" />
           </Property>
-          <Property name="SkyGradientSpeed" value="Vector4f.xml">
+          <Property name="SkyGradientSpeed" value="Vector3f.xml">
             <Property name="x" value="1" />
             <Property name="y" value="1" />
             <Property name="z" value="1" />
-            <Property name="t" value="0" />
           </Property>
           <Property name="LightColour" value="Colour.xml">
             <Property name="R" value="0.985" />
@@ -3284,11 +3237,10 @@
             <Property name="B" value="0.93" />
             <Property name="A" value="1" />
           </Property>
-          <Property name="SkyGradientSpeed" value="Vector4f.xml">
+          <Property name="SkyGradientSpeed" value="Vector3f.xml">
             <Property name="x" value="1" />
             <Property name="y" value="1" />
             <Property name="z" value="1" />
-            <Property name="t" value="0" />
           </Property>
           <Property name="LightColour" value="Colour.xml">
             <Property name="R" value="0.904" />
@@ -3352,11 +3304,10 @@
             <Property name="B" value="0.55" />
             <Property name="A" value="1" />
           </Property>
-          <Property name="SkyGradientSpeed" value="Vector4f.xml">
+          <Property name="SkyGradientSpeed" value="Vector3f.xml">
             <Property name="x" value="1" />
             <Property name="y" value="1" />
             <Property name="z" value="1" />
-            <Property name="t" value="0" />
           </Property>
           <Property name="LightColour" value="Colour.xml">
             <Property name="R" value="0.946" />
@@ -3420,11 +3371,10 @@
             <Property name="B" value="0.973" />
             <Property name="A" value="1" />
           </Property>
-          <Property name="SkyGradientSpeed" value="Vector4f.xml">
+          <Property name="SkyGradientSpeed" value="Vector3f.xml">
             <Property name="x" value="1" />
             <Property name="y" value="1" />
             <Property name="z" value="1" />
-            <Property name="t" value="0" />
           </Property>
           <Property name="LightColour" value="Colour.xml">
             <Property name="R" value="1" />
@@ -3488,11 +3438,10 @@
             <Property name="B" value="0.753" />
             <Property name="A" value="1" />
           </Property>
-          <Property name="SkyGradientSpeed" value="Vector4f.xml">
+          <Property name="SkyGradientSpeed" value="Vector3f.xml">
             <Property name="x" value="1" />
             <Property name="y" value="1" />
             <Property name="z" value="1" />
-            <Property name="t" value="0" />
           </Property>
           <Property name="LightColour" value="Colour.xml">
             <Property name="R" value="1" />
@@ -3560,11 +3509,10 @@
             <Property name="B" value="1" />
             <Property name="A" value="1" />
           </Property>
-          <Property name="SkyGradientSpeed" value="Vector4f.xml">
+          <Property name="SkyGradientSpeed" value="Vector3f.xml">
             <Property name="x" value="1" />
             <Property name="y" value="1" />
             <Property name="z" value="1" />
-            <Property name="t" value="0" />
           </Property>
           <Property name="LightColour" value="Colour.xml">
             <Property name="R" value="0.965" />
@@ -3628,11 +3576,10 @@
             <Property name="B" value="1" />
             <Property name="A" value="1" />
           </Property>
-          <Property name="SkyGradientSpeed" value="Vector4f.xml">
+          <Property name="SkyGradientSpeed" value="Vector3f.xml">
             <Property name="x" value="1" />
             <Property name="y" value="1" />
             <Property name="z" value="1" />
-            <Property name="t" value="0" />
           </Property>
           <Property name="LightColour" value="Colour.xml">
             <Property name="R" value="0.965" />
@@ -3696,11 +3643,10 @@
             <Property name="B" value="1" />
             <Property name="A" value="1" />
           </Property>
-          <Property name="SkyGradientSpeed" value="Vector4f.xml">
+          <Property name="SkyGradientSpeed" value="Vector3f.xml">
             <Property name="x" value="1" />
             <Property name="y" value="1" />
             <Property name="z" value="1" />
-            <Property name="t" value="0" />
           </Property>
           <Property name="LightColour" value="Colour.xml">
             <Property name="R" value="0.965" />
@@ -3764,11 +3710,10 @@
             <Property name="B" value="1" />
             <Property name="A" value="1" />
           </Property>
-          <Property name="SkyGradientSpeed" value="Vector4f.xml">
+          <Property name="SkyGradientSpeed" value="Vector3f.xml">
             <Property name="x" value="1" />
             <Property name="y" value="1" />
             <Property name="z" value="1" />
-            <Property name="t" value="0" />
           </Property>
           <Property name="LightColour" value="Colour.xml">
             <Property name="R" value="0.965" />
@@ -3832,11 +3777,10 @@
             <Property name="B" value="1" />
             <Property name="A" value="1" />
           </Property>
-          <Property name="SkyGradientSpeed" value="Vector4f.xml">
+          <Property name="SkyGradientSpeed" value="Vector3f.xml">
             <Property name="x" value="1" />
             <Property name="y" value="1" />
             <Property name="z" value="1" />
-            <Property name="t" value="0" />
           </Property>
           <Property name="LightColour" value="Colour.xml">
             <Property name="R" value="1" />
@@ -3900,11 +3844,10 @@
             <Property name="B" value="1" />
             <Property name="A" value="1" />
           </Property>
-          <Property name="SkyGradientSpeed" value="Vector4f.xml">
+          <Property name="SkyGradientSpeed" value="Vector3f.xml">
             <Property name="x" value="1" />
             <Property name="y" value="1" />
             <Property name="z" value="1" />
-            <Property name="t" value="0" />
           </Property>
           <Property name="LightColour" value="Colour.xml">
             <Property name="R" value="1" />
@@ -3968,11 +3911,10 @@
             <Property name="B" value="1" />
             <Property name="A" value="1" />
           </Property>
-          <Property name="SkyGradientSpeed" value="Vector4f.xml">
+          <Property name="SkyGradientSpeed" value="Vector3f.xml">
             <Property name="x" value="1" />
             <Property name="y" value="1" />
             <Property name="z" value="1" />
-            <Property name="t" value="0" />
           </Property>
           <Property name="LightColour" value="Colour.xml">
             <Property name="R" value="0.965" />
@@ -4036,11 +3978,10 @@
             <Property name="B" value="1" />
             <Property name="A" value="1" />
           </Property>
-          <Property name="SkyGradientSpeed" value="Vector4f.xml">
+          <Property name="SkyGradientSpeed" value="Vector3f.xml">
             <Property name="x" value="1" />
             <Property name="y" value="1" />
             <Property name="z" value="1" />
-            <Property name="t" value="0" />
           </Property>
           <Property name="LightColour" value="Colour.xml">
             <Property name="R" value="0.965" />
@@ -4104,11 +4045,10 @@
             <Property name="B" value="1" />
             <Property name="A" value="1" />
           </Property>
-          <Property name="SkyGradientSpeed" value="Vector4f.xml">
+          <Property name="SkyGradientSpeed" value="Vector3f.xml">
             <Property name="x" value="1" />
             <Property name="y" value="1" />
             <Property name="z" value="1" />
-            <Property name="t" value="0" />
           </Property>
           <Property name="LightColour" value="Colour.xml">
             <Property name="R" value="0.965" />
@@ -4172,11 +4112,10 @@
             <Property name="B" value="1" />
             <Property name="A" value="1" />
           </Property>
-          <Property name="SkyGradientSpeed" value="Vector4f.xml">
+          <Property name="SkyGradientSpeed" value="Vector3f.xml">
             <Property name="x" value="1" />
             <Property name="y" value="1" />
             <Property name="z" value="1" />
-            <Property name="t" value="0" />
           </Property>
           <Property name="LightColour" value="Colour.xml">
             <Property name="R" value="0.965" />
@@ -4240,11 +4179,10 @@
             <Property name="B" value="1" />
             <Property name="A" value="1" />
           </Property>
-          <Property name="SkyGradientSpeed" value="Vector4f.xml">
+          <Property name="SkyGradientSpeed" value="Vector3f.xml">
             <Property name="x" value="1" />
             <Property name="y" value="1" />
             <Property name="z" value="1" />
-            <Property name="t" value="0" />
           </Property>
           <Property name="LightColour" value="Colour.xml">
             <Property name="R" value="0.965" />

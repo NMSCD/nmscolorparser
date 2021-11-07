@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--File created using MBINCompiler version (3.37.0)-->
+<!--File created using MBINCompiler version (3.71.0)-->
 <Data template="GcWeatherColourSettings">
   <Property name="GenericSettings" value="GcWeatherColourSettingList.xml">
     <Property name="Settings">
@@ -46,11 +46,10 @@
           <Property name="B" value="0.207" />
           <Property name="A" value="1" />
         </Property>
-        <Property name="SkyGradientSpeed" value="Vector4f.xml">
+        <Property name="SkyGradientSpeed" value="Vector3f.xml">
           <Property name="x" value="1" />
           <Property name="y" value="1" />
           <Property name="z" value="1" />
-          <Property name="t" value="0" />
         </Property>
         <Property name="LightColour" value="Colour.xml">
           <Property name="R" value="0.275" />
@@ -155,11 +154,10 @@
             <Property name="B" value="0.204" />
             <Property name="A" value="1" />
           </Property>
-          <Property name="SkyGradientSpeed" value="Vector4f.xml">
+          <Property name="SkyGradientSpeed" value="Vector3f.xml">
             <Property name="x" value="1" />
             <Property name="y" value="1" />
             <Property name="z" value="1" />
-            <Property name="t" value="0" />
           </Property>
           <Property name="LightColour" value="Colour.xml">
             <Property name="R" value="0.431" />
@@ -227,11 +225,10 @@
             <Property name="B" value="0.208" />
             <Property name="A" value="1" />
           </Property>
-          <Property name="SkyGradientSpeed" value="Vector4f.xml">
+          <Property name="SkyGradientSpeed" value="Vector3f.xml">
             <Property name="x" value="1" />
             <Property name="y" value="1" />
             <Property name="z" value="1" />
-            <Property name="t" value="0" />
           </Property>
           <Property name="LightColour" value="Colour.xml">
             <Property name="R" value="0.479" />

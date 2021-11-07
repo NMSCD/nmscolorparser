@@ -229,7 +229,7 @@ function showColors(data) {
   }
 
   let output = "";
-  let title = `<div class="fileTitle">${data.file}</div>`;
+  let title = `<div class="fileTitle">File: ${data.file}.EXML</div>`;
   outputElement.insertAdjacentHTML('beforeBegin', title);
 
 

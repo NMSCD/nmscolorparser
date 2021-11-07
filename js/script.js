@@ -244,8 +244,8 @@ function showColors(data) {
       let colors = item.Property;
       let colorNum = 1;
       if (config.startIndexZero) {
-        colorNum = 0
-      }
+        colorNum = 0;
+      };
       colors.map((color) => {
         let colorName = color._name;
         let R = color.Property[0]._value;
@@ -290,8 +290,8 @@ function showColors(data) {
         let colors = item.Property;
         let colorNum = 1;
         if (config.startIndexZero) {
-          colorNum = 0
-        }
+          colorNum = 0;
+        };
         
         colors.map((color) => {
           
@@ -332,6 +332,11 @@ function showColors(data) {
         
       });
 
+      let customColorNum = 1;
+      if (config.startIndexZero) {
+        customColorNum = 0;
+      };
+
       customColorHtml += `<div class="custom-colors-output">`;
 
       Object.keys(customColors).forEach(function(colors) {
@@ -340,7 +345,7 @@ function showColors(data) {
         <div class="colorblock">`;
         for (let index = 0; index < customColors[colors].length; index++) {
           const color = customColors[colors][index];
-          customColorHtml+= `<span class="color" style="background-color:${color}">${index +1}</span>`;
+          customColorHtml+= `<span class="color" style="background-color:${color}">${index + customColorNum}</span>`;
         }
         customColorHtml += `</div></div>`;
       });
@@ -375,7 +380,7 @@ function showColors(data) {
   
               let colorNum = 1;
               if (config.startIndexZero) {
-                colorNum = 0
+                colorNum = 0;
               };
               let colors = item.Property.Property.Property
               colors.map((color) => {
@@ -411,27 +416,32 @@ function showColors(data) {
               
               output += `</div></div>`;
 
+              let customColorNum = 1;
+              if (config.startIndexZero) {
+                customColorNum = 0;
+              };
+
               customColorHtml += `<div class="custom-colors-output">`;
 
-          Object.keys(customColors).forEach(function(colors) {
-            let numOfColors = customColors[colors].length;
-            let style = "";
-            if(numOfColors <= 11){
-              style = `style="grid-template-columns: repeat(11, 1fr);"`;
-            }
-            customColorHtml += `<div class="block">
-            <div class="title">${colors}</div>
-            <div class="colorblock" ${style}>`;
-            for (let index = 0; index < customColors[colors].length; index++) {
-              const color = customColors[colors][index];
-              customColorHtml+= `<span class="color" style="background-color:${color}">${index +1}</span>`;
-            }
-            customColorHtml += `</div></div>`;
-          });
-    
-          customColorHtml += `</div>`
-    
-          output += customColorHtml;
+              Object.keys(customColors).forEach(function(colors) {
+                let numOfColors = customColors[colors].length;
+                let style = "";
+                if(numOfColors <= 11){
+                  style = `style="grid-template-columns: repeat(11, 1fr);"`;
+                }
+                customColorHtml += `<div class="block">
+                <div class="title">${colors}</div>
+                <div class="colorblock" ${style}>`;
+                for (let index = 0; index < customColors[colors].length; index++) {
+                  const color = customColors[colors][index];
+                  customColorHtml+= `<span class="color" style="background-color:${color}">${index +customColorNum}</span>`;
+                }
+                customColorHtml += `</div></div>`;
+              });
+        
+              customColorHtml += `</div>`
+        
+              output += customColorHtml;
             }
           }
         }
@@ -451,7 +461,7 @@ function showColors(data) {
   
             let colorNum = 1;
             if (config.startIndexZero) {
-              colorNum = 0
+              colorNum = 0;
             };
             let colors = type.Property;
             colors.map((color) => {
@@ -488,6 +498,11 @@ function showColors(data) {
 
           });
 
+          let customColorNum = 1;
+          if (config.startIndexZero) {
+            customColorNum = 0;
+          };
+
           customColorHtml += `<div class="custom-colors-output">`;
 
           Object.keys(customColors).forEach(function(colors) {
@@ -501,7 +516,7 @@ function showColors(data) {
             <div class="colorblock" ${style}>`;
             for (let index = 0; index < customColors[colors].length; index++) {
               const color = customColors[colors][index];
-              customColorHtml+= `<span class="color" style="background-color:${color}">${index +1}</span>`;
+              customColorHtml+= `<span class="color" style="background-color:${color}">${index + customColorNum}</span>`;
             }
             customColorHtml += `</div></div>`;
           });
@@ -529,8 +544,8 @@ function showColors(data) {
     let colors = data.Data.Property[0].Property.Property.Property;
     let colorNum = 1;
     if (config.startIndexZero) {
-      colorNum = 0
-    }
+      colorNum = 0;
+    };
     colors.map((color) => {
       let colorName = color._name;
       if(colorName !== "SkyGradientSpeed"){
@@ -576,7 +591,7 @@ function showColors(data) {
 
             let colorNum = 1;
             if (config.startIndexZero) {
-              colorNum = 0
+              colorNum = 0;
             };
             let colors = item.Property.Property.Property
             colors.map((color) => {
@@ -618,7 +633,7 @@ function showColors(data) {
 
           let colorNum = 1;
           if (config.startIndexZero) {
-            colorNum = 0
+            colorNum = 0;
           };
           let colors = type.Property;
           colors.map((color) => {
@@ -662,8 +677,8 @@ function showColors(data) {
       let colors = item.Property[1].Property;
       let colorNum = 1;
       if (config.startIndexZero) {
-        colorNum = 0
-      }
+        colorNum = 0;
+      };
       colors.map((color) => {
         let R = color.Property[0]._value;
         let G = color.Property[1]._value;

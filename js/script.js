@@ -20,7 +20,8 @@ versionElement.innerText = `NMS v. ${version}`;
 
 const config = {
   startIndexZero: false,
-  _16colorsPerLine: false
+  _16colorsPerLine: false,
+  hideWhitePalettes: false
 }
 const colorData = {};
 const customColorOutput = [];
@@ -127,6 +128,36 @@ const supportedFiles = [
   "SPACERARESKYCOLOURS",
   "SPACESKYCOLOURS",
   "WATERCOLOURS",
+  "BARRENCOLOURPALETTES",
+  "DEADCOLOURPALETTES",
+  "FROZENCOLOURPALETTES",
+  "FROZENHQCOLOURPALETTES",
+  "LAVACOLOURPALETTES",
+  "LUSHBUBBLESCOLOURPALETTE",
+  "LUSHCOLOURPALETTES",
+  "LUSHHQCOLOURPALETTE",
+  "LUSHROOMACOLOURPALETTE",
+  "LUSHROOMBCOLOURPALETTE",
+  "LUSHULTRACOLOURPALETTES",
+  "RADIOCOLOURPALETTES",
+  "SCORCHCOLOURPALETTES",
+  "SWAMPCOLOURPALETTES",
+  "TOXICCOLOURPALETTES",
+  "TOXICEGGSCOLOURPALETTES",
+  "TOXICSPORESCOLOURPALETTES",
+  "TOXICTENTACLESCOLOURPALETTES",
+  "BEAMSCOLOURPALETTES",
+  "BONESPIRECOLOURPALETTES",
+  "CONTOURCOLOURPALETTES",
+  "ELBUBBLECOLOURPALETTES",
+  "FRACTCUBECOLOURPALETTES",
+  "HEXAGONCOLOURPALETTES",
+  "HOUDINIPROPSCOLOURPALETTES",
+  "HYDROGARDENCOLOURPALETTES",
+  "IRRISHELLSCOLOURPALETTES",
+  "MSTRUCTCOLOURPALETTES",
+  "SHARDSCOLOURPALETTES",
+  "WIRECELLSCOLOURPALETTES"
 ]
 
 supportedFiles.forEach(file => {
@@ -668,8 +699,11 @@ function showColors(data) {
   }
   else {
     let list = data.Data.Property.Property;
+    
     list.map((item) => {
-      output += `
+      let paletteOutput = "";
+      let hidePalette = 0;
+      paletteOutput += `
       <div class="block">
       <div class="title">${item._name}</div>
       <div class="colorblock" style="grid-template-columns: repeat(${colorsPerLine}, 1fr);">`;
@@ -693,12 +727,21 @@ function showColors(data) {
         B = Math.round(B);
         A = Math.round(A);
 
+        if((R === 255 && G === 255 && B === 255 && A === 255) || R <= 4 && G <= 6 && B <= 4 && A === 255){
+          hidePalette = hidePalette +1;
+        }
+
         let bgcolor = `rgba(${R}, ${G}, ${B}, ${A})`;
-        output += `<span class="color" style="background-color:${bgcolor}">${colorNum}</span>`;
+        paletteOutput += `<span class="color" style="background-color:${bgcolor}">${colorNum}</span>`;
         colorNum = colorNum + 1;
       });
-      output += `</div></div>`;
+      paletteOutput += `</div></div>`;
 
+      if(hidePalette <= 64 && config.hideWhitePalettes === true){
+        output += paletteOutput;
+      } else if(hidePalette < 64 && config.hideWhitePalettes === false){
+        output += paletteOutput;
+      }
     });
   }
 

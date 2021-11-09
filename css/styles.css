@@ -179,6 +179,7 @@ p {
   color: #ffc107;
   padding: 0.5rem 1rem;
   border-radius: 10px;
+  overflow-y: scroll;
 }
 .supported-files .filename {
   margin: 1px 0;

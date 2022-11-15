@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--File created using MBINCompiler version (3.71.0)-->
+<!--File created using MBINCompiler version (4.5.0)-->
 <Data template="GcPaletteList">
   <Property name="Palettes">
     <Property name="Grass" value="GcPaletteData.xml">
@@ -21393,6 +21393,1173 @@
           <Property name="R" value="0.543" />
           <Property name="G" value="0.503" />
           <Property name="B" value="0.503" />
+          <Property name="A" value="1" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="SailShip_Sails" value="GcPaletteData.xml">
+      <Property name="NumColours" value="_8" />
+      <Property name="Colours">
+        <Property value="Colour.xml">
+          <Property name="R" value="0.204" />
+          <Property name="G" value="0.413" />
+          <Property name="B" value="0.817" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.492" />
+          <Property name="G" value="0.65" />
+          <Property name="B" value="0.647" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.657" />
+          <Property name="G" value="0.44" />
+          <Property name="B" value="0.8" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.259" />
+          <Property name="G" value="0.685" />
+          <Property name="B" value="0.767" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.295" />
+          <Property name="G" value="0.59" />
+          <Property name="B" value="0.324" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.8" />
+          <Property name="G" value="0.762" />
+          <Property name="B" value="0.48" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.8" />
+          <Property name="G" value="0.559" />
+          <Property name="B" value="0.32" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.71" />
+          <Property name="G" value="0.275" />
+          <Property name="B" value="0.275" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.204" />
+          <Property name="G" value="0.413" />
+          <Property name="B" value="0.817" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.492" />
+          <Property name="G" value="0.65" />
+          <Property name="B" value="0.647" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.657" />
+          <Property name="G" value="0.44" />
+          <Property name="B" value="0.8" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.259" />
+          <Property name="G" value="0.685" />
+          <Property name="B" value="0.767" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.295" />
+          <Property name="G" value="0.59" />
+          <Property name="B" value="0.324" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.8" />
+          <Property name="G" value="0.762" />
+          <Property name="B" value="0.48" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.8" />
+          <Property name="G" value="0.559" />
+          <Property name="B" value="0.32" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.71" />
+          <Property name="G" value="0.275" />
+          <Property name="B" value="0.275" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.204" />
+          <Property name="G" value="0.413" />
+          <Property name="B" value="0.817" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.492" />
+          <Property name="G" value="0.65" />
+          <Property name="B" value="0.647" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.657" />
+          <Property name="G" value="0.44" />
+          <Property name="B" value="0.8" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.259" />
+          <Property name="G" value="0.685" />
+          <Property name="B" value="0.767" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.295" />
+          <Property name="G" value="0.59" />
+          <Property name="B" value="0.324" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.8" />
+          <Property name="G" value="0.762" />
+          <Property name="B" value="0.48" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.8" />
+          <Property name="G" value="0.559" />
+          <Property name="B" value="0.32" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.71" />
+          <Property name="G" value="0.275" />
+          <Property name="B" value="0.275" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.204" />
+          <Property name="G" value="0.413" />
+          <Property name="B" value="0.817" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.492" />
+          <Property name="G" value="0.65" />
+          <Property name="B" value="0.647" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.657" />
+          <Property name="G" value="0.44" />
+          <Property name="B" value="0.8" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.259" />
+          <Property name="G" value="0.685" />
+          <Property name="B" value="0.767" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.295" />
+          <Property name="G" value="0.59" />
+          <Property name="B" value="0.324" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.8" />
+          <Property name="G" value="0.762" />
+          <Property name="B" value="0.48" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.8" />
+          <Property name="G" value="0.559" />
+          <Property name="B" value="0.32" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.71" />
+          <Property name="G" value="0.275" />
+          <Property name="B" value="0.275" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.204" />
+          <Property name="G" value="0.413" />
+          <Property name="B" value="0.817" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.492" />
+          <Property name="G" value="0.65" />
+          <Property name="B" value="0.647" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.657" />
+          <Property name="G" value="0.44" />
+          <Property name="B" value="0.8" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.259" />
+          <Property name="G" value="0.685" />
+          <Property name="B" value="0.767" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.295" />
+          <Property name="G" value="0.59" />
+          <Property name="B" value="0.324" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.8" />
+          <Property name="G" value="0.762" />
+          <Property name="B" value="0.48" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.8" />
+          <Property name="G" value="0.559" />
+          <Property name="B" value="0.32" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.71" />
+          <Property name="G" value="0.275" />
+          <Property name="B" value="0.275" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.204" />
+          <Property name="G" value="0.413" />
+          <Property name="B" value="0.817" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.492" />
+          <Property name="G" value="0.65" />
+          <Property name="B" value="0.647" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.657" />
+          <Property name="G" value="0.44" />
+          <Property name="B" value="0.8" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.259" />
+          <Property name="G" value="0.685" />
+          <Property name="B" value="0.767" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.295" />
+          <Property name="G" value="0.59" />
+          <Property name="B" value="0.324" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.8" />
+          <Property name="G" value="0.762" />
+          <Property name="B" value="0.48" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.8" />
+          <Property name="G" value="0.559" />
+          <Property name="B" value="0.32" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.71" />
+          <Property name="G" value="0.275" />
+          <Property name="B" value="0.275" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.204" />
+          <Property name="G" value="0.413" />
+          <Property name="B" value="0.817" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.492" />
+          <Property name="G" value="0.65" />
+          <Property name="B" value="0.647" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.657" />
+          <Property name="G" value="0.44" />
+          <Property name="B" value="0.8" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.259" />
+          <Property name="G" value="0.685" />
+          <Property name="B" value="0.767" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.295" />
+          <Property name="G" value="0.59" />
+          <Property name="B" value="0.324" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.8" />
+          <Property name="G" value="0.762" />
+          <Property name="B" value="0.48" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.8" />
+          <Property name="G" value="0.559" />
+          <Property name="B" value="0.32" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.71" />
+          <Property name="G" value="0.275" />
+          <Property name="B" value="0.275" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.204" />
+          <Property name="G" value="0.413" />
+          <Property name="B" value="0.817" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.492" />
+          <Property name="G" value="0.65" />
+          <Property name="B" value="0.647" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.657" />
+          <Property name="G" value="0.44" />
+          <Property name="B" value="0.8" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.259" />
+          <Property name="G" value="0.685" />
+          <Property name="B" value="0.767" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.295" />
+          <Property name="G" value="0.59" />
+          <Property name="B" value="0.324" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.8" />
+          <Property name="G" value="0.762" />
+          <Property name="B" value="0.48" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.8" />
+          <Property name="G" value="0.559" />
+          <Property name="B" value="0.32" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.71" />
+          <Property name="G" value="0.275" />
+          <Property name="B" value="0.275" />
+          <Property name="A" value="1" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Freighter" value="GcPaletteData.xml">
+      <Property name="NumColours" value="All" />
+      <Property name="Colours">
+        <Property value="Colour.xml">
+          <Property name="R" value="0.432941" />
+          <Property name="G" value="0.432941" />
+          <Property name="B" value="0.432941" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.48" />
+          <Property name="G" value="0.433619" />
+          <Property name="B" value="0.372744" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.474354" />
+          <Property name="G" value="0.459858" />
+          <Property name="B" value="0.40913" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.437189" />
+          <Property name="G" value="0.44569" />
+          <Property name="B" value="0.45456" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.413064" />
+          <Property name="G" value="0.431907" />
+          <Property name="B" value="0.453646" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.413064" />
+          <Property name="G" value="0.431907" />
+          <Property name="B" value="0.453646" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.45744" />
+          <Property name="G" value="0.453374" />
+          <Property name="B" value="0.425285" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.175774" />
+          <Property name="G" value="0.174324" />
+          <Property name="B" value="0.18447" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.474354" />
+          <Property name="G" value="0.301874" />
+          <Property name="B" value="0.197516" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.37647" />
+          <Property name="G" value="0.215585" />
+          <Property name="B" value="0.175003" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.4448" />
+          <Property name="G" value="0.25472" />
+          <Property name="B" value="0.12272" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.468706" />
+          <Property name="G" value="0.278833" />
+          <Property name="B" value="0.206362" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.478117" />
+          <Property name="G" value="0.289695" />
+          <Property name="B" value="0.217223" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.42576" />
+          <Property name="G" value="0.337426" />
+          <Property name="B" value="0.227285" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.39696" />
+          <Property name="G" value="0.297538" />
+          <Property name="B" value="0.132326" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.432941" />
+          <Property name="G" value="0.385111" />
+          <Property name="B" value="0.311191" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.43344" />
+          <Property name="G" value="0.371717" />
+          <Property name="B" value="0.219442" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.41424" />
+          <Property name="G" value="0.403891" />
+          <Property name="B" value="0.220939" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.47247" />
+          <Property name="G" value="0.39855" />
+          <Property name="B" value="0.246363" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.43056" />
+          <Property name="G" value="0.325963" />
+          <Property name="B" value="0.188842" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.464941" />
+          <Property name="G" value="0.408415" />
+          <Property name="B" value="0.262023" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.48" />
+          <Property name="G" value="0.461157" />
+          <Property name="B" value="0.303171" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.40944" />
+          <Property name="G" value="0.4002" />
+          <Property name="B" value="0.229814" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.29904" />
+          <Property name="G" value="0.2436" />
+          <Property name="B" value="0.106478" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.47247" />
+          <Property name="G" value="0.263756" />
+          <Property name="B" value="0.234767" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.444235" />
+          <Property name="G" value="0.239868" />
+          <Property name="B" value="0.216678" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.374589" />
+          <Property name="G" value="0.194861" />
+          <Property name="B" value="0.183266" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.395294" />
+          <Property name="G" value="0.195276" />
+          <Property name="B" value="0.198174" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.301176" />
+          <Property name="G" value="0.183773" />
+          <Property name="B" value="0.19392" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.48" />
+          <Property name="G" value="0.323464" />
+          <Property name="B" value="0.279981" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.453646" />
+          <Property name="G" value="0.243483" />
+          <Property name="B" value="0.22464" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.412235" />
+          <Property name="G" value="0.219464" />
+          <Property name="B" value="0.209318" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.301176" />
+          <Property name="G" value="0.153336" />
+          <Property name="B" value="0.17073" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.436706" />
+          <Property name="G" value="0.262777" />
+          <Property name="B" value="0.277271" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.384" />
+          <Property name="G" value="0.239059" />
+          <Property name="B" value="0.244856" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.444235" />
+          <Property name="G" value="0.242766" />
+          <Property name="B" value="0.248564" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.425413" />
+          <Property name="G" value="0.280472" />
+          <Property name="B" value="0.284819" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.387765" />
+          <Property name="G" value="0.216733" />
+          <Property name="B" value="0.215285" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.31247" />
+          <Property name="G" value="0.186372" />
+          <Property name="B" value="0.173327" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.35953" />
+          <Property name="G" value="0.249375" />
+          <Property name="B" value="0.237778" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.17219" />
+          <Property name="G" value="0.23724" />
+          <Property name="B" value="0.33888" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.138258" />
+          <Property name="G" value="0.246965" />
+          <Property name="B" value="0.304941" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.263492" />
+          <Property name="G" value="0.306975" />
+          <Property name="B" value="0.446118" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.27121" />
+          <Property name="G" value="0.323389" />
+          <Property name="B" value="0.410354" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.29632" />
+          <Property name="G" value="0.37024" />
+          <Property name="B" value="0.374589" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.29632" />
+          <Property name="G" value="0.37024" />
+          <Property name="B" value="0.374589" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.17725" />
+          <Property name="G" value="0.294782" />
+          <Property name="B" value="0.38016" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.17219" />
+          <Property name="G" value="0.23724" />
+          <Property name="B" value="0.33888" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.158457" />
+          <Property name="G" value="0.197591" />
+          <Property name="B" value="0.254118" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.182796" />
+          <Property name="G" value="0.290052" />
+          <Property name="B" value="0.410354" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.230945" />
+          <Property name="G" value="0.313563" />
+          <Property name="B" value="0.380235" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.154974" />
+          <Property name="G" value="0.224545" />
+          <Property name="B" value="0.257883" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.230814" />
+          <Property name="G" value="0.335172" />
+          <Property name="B" value="0.367059" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.242748" />
+          <Property name="G" value="0.254343" />
+          <Property name="B" value="0.318118" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.204197" />
+          <Property name="G" value="0.244781" />
+          <Property name="B" value="0.314354" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.157647" />
+          <Property name="G" value="0.167793" />
+          <Property name="B" value="0.193883" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.23737" />
+          <Property name="G" value="0.32016" />
+          <Property name="B" value="0.241805" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.130224" />
+          <Property name="G" value="0.2448" />
+          <Property name="B" value="0.213014" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.197327" />
+          <Property name="G" value="0.227765" />
+          <Property name="B" value="0.220517" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.169223" />
+          <Property name="G" value="0.212706" />
+          <Property name="B" value="0.17502" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.222004" />
+          <Property name="G" value="0.335059" />
+          <Property name="B" value="0.274183" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.306899" />
+          <Property name="G" value="0.37647" />
+          <Property name="B" value="0.312697" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.157477" />
+          <Property name="G" value="0.215455" />
+          <Property name="B" value="0.218354" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.234522" />
+          <Property name="G" value="0.282354" />
+          <Property name="B" value="0.251914" />
+          <Property name="A" value="1" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="FreighterPaint" value="GcPaletteData.xml">
+      <Property name="NumColours" value="All" />
+      <Property name="Colours">
+        <Property value="Colour.xml">
+          <Property name="R" value="0.901961" />
+          <Property name="G" value="0.901961" />
+          <Property name="B" value="0.901961" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="0.87451" />
+          <Property name="B" value="0.709804" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.988235" />
+          <Property name="G" value="0.94902" />
+          <Property name="B" value="0.811765" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.937255" />
+          <Property name="G" value="0.960784" />
+          <Property name="B" value="0.984314" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.835294" />
+          <Property name="G" value="0.886275" />
+          <Property name="B" value="0.945098" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.835294" />
+          <Property name="G" value="0.886275" />
+          <Property name="B" value="0.945098" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.952941" />
+          <Property name="G" value="0.952941" />
+          <Property name="B" value="0.952941" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.360784" />
+          <Property name="G" value="0.356863" />
+          <Property name="B" value="0.384314" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.988235" />
+          <Property name="G" value="0.521569" />
+          <Property name="B" value="0.239216" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.784314" />
+          <Property name="G" value="0.34902" />
+          <Property name="B" value="0.239216" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.92549" />
+          <Property name="G" value="0.411765" />
+          <Property name="B" value="0.054902" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.976471" />
+          <Property name="G" value="0.462745" />
+          <Property name="B" value="0.266667" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.996078" />
+          <Property name="G" value="0.486275" />
+          <Property name="B" value="0.290196" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="0.733333" />
+          <Property name="B" value="0.4" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="0.627451" />
+          <Property name="B" value="0.007843" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.901961" />
+          <Property name="G" value="0.772549" />
+          <Property name="B" value="0.572549" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.956863" />
+          <Property name="G" value="0.72549" />
+          <Property name="B" value="0.156863" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.976471" />
+          <Property name="G" value="0.92549" />
+          <Property name="B" value="0.066667" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.984314" />
+          <Property name="G" value="0.784314" />
+          <Property name="B" value="0.372549" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="0.67451" />
+          <Property name="B" value="0.247059" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.968627" />
+          <Property name="G" value="0.815686" />
+          <Property name="B" value="0.419608" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="0.94902" />
+          <Property name="B" value="0.521569" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="0.952941" />
+          <Property name="B" value="0.098039" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.956863" />
+          <Property name="G" value="0.72549" />
+          <Property name="B" value="0.156863" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.984314" />
+          <Property name="G" value="0.419608" />
+          <Property name="B" value="0.341176" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.92549" />
+          <Property name="G" value="0.372549" />
+          <Property name="B" value="0.309804" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.780392" />
+          <Property name="G" value="0.294118" />
+          <Property name="B" value="0.262745" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.823529" />
+          <Property name="G" value="0.282353" />
+          <Property name="B" value="0.290196" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.627451" />
+          <Property name="G" value="0.309804" />
+          <Property name="B" value="0.337255" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="0.576471" />
+          <Property name="B" value="0.458824" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.945098" />
+          <Property name="G" value="0.376471" />
+          <Property name="B" value="0.32549" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.858824" />
+          <Property name="G" value="0.337255" />
+          <Property name="B" value="0.309804" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.627451" />
+          <Property name="G" value="0.227451" />
+          <Property name="B" value="0.27451" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.909804" />
+          <Property name="G" value="0.439216" />
+          <Property name="B" value="0.478431" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.8" />
+          <Property name="G" value="0.407843" />
+          <Property name="B" value="0.423529" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.92549" />
+          <Property name="G" value="0.380392" />
+          <Property name="B" value="0.396078" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.886275" />
+          <Property name="G" value="0.494118" />
+          <Property name="B" value="0.505882" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.807843" />
+          <Property name="G" value="0.345098" />
+          <Property name="B" value="0.341176" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.65098" />
+          <Property name="G" value="0.309804" />
+          <Property name="B" value="0.27451" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.74902" />
+          <Property name="G" value="0.45098" />
+          <Property name="B" value="0.419608" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.254902" />
+          <Property name="G" value="0.431373" />
+          <Property name="B" value="0.705882" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.184314" />
+          <Property name="G" value="0.478431" />
+          <Property name="B" value="0.635294" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.435294" />
+          <Property name="G" value="0.552941" />
+          <Property name="B" value="0.929412" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.478431" />
+          <Property name="G" value="0.619608" />
+          <Property name="B" value="0.854902" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.568627" />
+          <Property name="G" value="0.768627" />
+          <Property name="B" value="0.780392" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.568627" />
+          <Property name="G" value="0.768627" />
+          <Property name="B" value="0.780392" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.243137" />
+          <Property name="G" value="0.560784" />
+          <Property name="B" value="0.792157" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.254902" />
+          <Property name="G" value="0.431373" />
+          <Property name="B" value="0.705882" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.270588" />
+          <Property name="G" value="0.376471" />
+          <Property name="B" value="0.529412" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.239216" />
+          <Property name="G" value="0.529412" />
+          <Property name="B" value="0.854902" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.388235" />
+          <Property name="G" value="0.611765" />
+          <Property name="B" value="0.792157" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.258824" />
+          <Property name="G" value="0.447059" />
+          <Property name="B" value="0.537255" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.396078" />
+          <Property name="G" value="0.678431" />
+          <Property name="B" value="0.764706" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.458824" />
+          <Property name="G" value="0.490196" />
+          <Property name="B" value="0.662745" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.356863" />
+          <Property name="G" value="0.466667" />
+          <Property name="B" value="0.654902" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.305882" />
+          <Property name="G" value="0.333333" />
+          <Property name="B" value="0.403922" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.443" />
+          <Property name="G" value="0.667" />
+          <Property name="B" value="0.455" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.2" />
+          <Property name="G" value="0.51" />
+          <Property name="B" value="0.424" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.392157" />
+          <Property name="G" value="0.47451" />
+          <Property name="B" value="0.454902" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.32549" />
+          <Property name="G" value="0.443137" />
+          <Property name="B" value="0.341176" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.392157" />
+          <Property name="G" value="0.698039" />
+          <Property name="B" value="0.533333" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.596078" />
+          <Property name="G" value="0.784314" />
+          <Property name="B" value="0.611765" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.290196" />
+          <Property name="G" value="0.447059" />
+          <Property name="B" value="0.454902" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="0.458824" />
+          <Property name="G" value="0.588235" />
+          <Property name="B" value="0.505882" />
           <Property name="A" value="1" />
         </Property>
       </Property>

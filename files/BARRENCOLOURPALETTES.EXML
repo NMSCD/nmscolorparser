@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--File created using MBINCompiler version (3.71.0)-->
+<!--File created using MBINCompiler version (4.5.0)-->
 <Data template="GcPaletteList">
   <Property name="Palettes">
     <Property name="Grass" value="GcPaletteData.xml">
@@ -21009,6 +21009,1173 @@
       </Property>
     </Property>
     <Property name="BioShip_Cockpit" value="GcPaletteData.xml">
+      <Property name="NumColours" value="Inactive" />
+      <Property name="Colours">
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="SailShip_Sails" value="GcPaletteData.xml">
+      <Property name="NumColours" value="Inactive" />
+      <Property name="Colours">
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Freighter" value="GcPaletteData.xml">
+      <Property name="NumColours" value="Inactive" />
+      <Property name="Colours">
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+        <Property value="Colour.xml">
+          <Property name="R" value="1" />
+          <Property name="G" value="1" />
+          <Property name="B" value="1" />
+          <Property name="A" value="1" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="FreighterPaint" value="GcPaletteData.xml">
       <Property name="NumColours" value="Inactive" />
       <Property name="Colours">
         <Property value="Colour.xml">

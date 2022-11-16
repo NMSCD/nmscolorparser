@@ -15,7 +15,7 @@ const versionElement = document.getElementsByClassName("version")[0];
 
 const customColor = document.getElementsByClassName("custom-color")[0];
 
-const version = "3.71";
+const version = "4.06";
 versionElement.innerText = `NMS v. ${version}`;
 
 const config = {

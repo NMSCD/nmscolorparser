@@ -286,7 +286,6 @@ function showColors(data) {
         R = Math.round(R * 255);
         G = Math.round(G * 255);
         B = Math.round(B * 255);
-        A = Math.round(A * 255);
         let tColor = `rgba(${R}, ${G}, ${B}, ${A})`;
         let darkerColor = tinycolor(tColor).desaturate(20).toHexString();
         //let lightColor = Color('rgb(${R}, ${G}, ${B})').lighten(0.5);
@@ -336,7 +335,6 @@ function showColors(data) {
             R = Math.round(R * 255);
             G = Math.round(G * 255);
             B = Math.round(B * 255);
-            A = Math.round(A * 255);
             let tColor = `rgba(${R}, ${G}, ${B}, ${A})`;
             let darkerColor = tinycolor(tColor).desaturate(20).toHexString();
             //let lightColor = Color('rgb(${R}, ${G}, ${B})').lighten(0.5);
@@ -424,7 +422,6 @@ function showColors(data) {
                   R = Math.round(R * 255);
                   G = Math.round(G * 255);
                   B = Math.round(B * 255);
-                  A = Math.round(A * 255);
                   let tColor = `rgba(${R}, ${G}, ${B}, ${A})`;
                   let darkerColor = tinycolor(tColor).desaturate(20).toHexString();
                   //let lightColor = Color('rgb(${R}, ${G}, ${B})').lighten(0.5);
@@ -505,7 +502,6 @@ function showColors(data) {
                 R = Math.round(R * 255);
                 G = Math.round(G * 255);
                 B = Math.round(B * 255);
-                A = Math.round(A * 255);
                 let tColor = `rgba(${R}, ${G}, ${B}, ${A})`;
                 let darkerColor = tinycolor(tColor).desaturate(20).toHexString();
                 //let lightColor = Color('rgb(${R}, ${G}, ${B})').lighten(0.5);
@@ -587,7 +583,6 @@ function showColors(data) {
         R = Math.round(R * 255);
         G = Math.round(G * 255);
         B = Math.round(B * 255);
-        A = Math.round(A * 255);
         let tColor = `rgba(${R}, ${G}, ${B}, ${A})`;
         let darkerColor = tinycolor(tColor).desaturate(20).toHexString();
         //let lightColor = Color('rgb(${R}, ${G}, ${B})').lighten(0.5);
@@ -635,7 +630,6 @@ function showColors(data) {
                 R = Math.round(R * 255);
                 G = Math.round(G * 255);
                 B = Math.round(B * 255);
-                A = Math.round(A * 255);
                 let tColor = `rgba(${R}, ${G}, ${B}, ${A})`;
                 let darkerColor = tinycolor(tColor).desaturate(20).toHexString();
                 //let lightColor = Color('rgb(${R}, ${G}, ${B})').lighten(0.5);
@@ -676,7 +670,6 @@ function showColors(data) {
             R = Math.round(R * 255);
             G = Math.round(G * 255);
             B = Math.round(B * 255);
-            A = Math.round(A * 255);
             let tColor = `rgba(${R}, ${G}, ${B}, ${A})`;
             let darkerColor = tinycolor(tColor).desaturate(20).toHexString();
             //let lightColor = Color('rgb(${R}, ${G}, ${B})').lighten(0.5);
@@ -721,11 +714,9 @@ function showColors(data) {
         R = R * 255;
         G = G * 255;
         B = B * 255;
-        A = A * 255;
         R = Math.round(R);
         G = Math.round(G);
         B = Math.round(B);
-        A = Math.round(A);
 
         if((R === 255 && G === 255 && B === 255 && A === 255) || R <= 4 && G <= 6 && B <= 4 && A === 255){
           hidePalette = hidePalette +1;
